@@ -7,3 +7,4 @@ Archives of Reiden's attempts at competitive programming
 - **kattis-memorymatch**: Set of <string, int> pairs, difficulty 4.1, *[DS][Ad-Hoc]*
 - **kattis-chess**: Python Set intersection, difficulty 2.9, *[Ad-Hoc][Python]*
 - **kattis-connectthedots**: ASCII keys, Array of int pairs, String line input, difficulty 3.7, *[Ad-Hoc]*
+- **kattis-gamerank**: difficulty 3.6, *[Ad-Hoc]*
