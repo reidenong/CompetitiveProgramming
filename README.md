@@ -9,3 +9,4 @@ Archives of Reiden's attempts at competitive programming
 - **kattis-connectthedots**: ASCII keys, Array of int pairs, String line input, difficulty 3.7, *[Ad-Hoc]*
 - **kattis-gamerank**: difficulty 3.6, *[Ad-Hoc]*
 - **kattis-guessinggame**: cin ignore for getline, difficulty 3.1, *[Ad-Hoc]*
+- **kattis-trik**: difficulty 1.5, *[Ad-Hoc]*
