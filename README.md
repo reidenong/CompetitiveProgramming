@@ -1,5 +1,5 @@
 # Competitive Programming
-Archives of all Reiden's things regarding competitive programming
+Archives of all Reiden things regarding competitive programming
 
 ### Problem Log
 - **kattis-bela**: difficulty 1.4, *[Ad-Hoc]*
