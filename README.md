@@ -10,3 +10,4 @@ Archives of Reiden's attempts at competitive programming
 - **kattis-gamerank**: difficulty 3.6, *[Ad-Hoc]*
 - **kattis-guessinggame**: cin ignore for getline, difficulty 3.1, *[Ad-Hoc]*
 - **kattis-trik**: difficulty 1.5, *[Ad-Hoc]*
+- **kattis-battleship**: difficulty 4.5, *[Ad-Hoc]*
