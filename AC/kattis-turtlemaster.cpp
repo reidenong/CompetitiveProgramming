@@ -1,3 +1,6 @@
+// Kattis-turtlemaster
+// not hard, tedious. just be careful of technicalities like how turtle may not end on D even thjough it goes apast it
+// use of functions to call make things easier
 #include <bits/stdc++.h>
 using namespace std;
 char grid[9][9];
@@ -97,8 +100,8 @@ int main(){
     }
     
 
-    // what about out of bounds for moving???
-
+    // what about out of bounds for moving??? inGrid()
+    // To double confimr that turtle ends on diamond, as further instructions may cause it to go other places
     if(Tpos == Dpos)cout << "Diamond!";
     else cout << "Bug!";
     
