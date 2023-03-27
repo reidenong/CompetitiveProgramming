@@ -13,3 +13,4 @@ Archives of all Reiden things regarding competitive programming
 - **kattis-battleship**: difficulty 4.5, *[Ad-Hoc]*
 - **kattis-tictactoe2**: difficulty 5.2, *[Ad-Hoc]*
 - **kattis-turtlemaster**: use of pair<int,int> function, difficulty 2.8, *[Ad-Hoc]*
+- **kattis-chopin**: python string input, difficulty 1.8, *[Ad-Hoc]*
