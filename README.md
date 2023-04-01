@@ -15,5 +15,7 @@ Archives of all Reiden things regarding competitive programming
 - **kattis-turtlemaster**: use of pair<int,int> function, difficulty 2.8, *[Ad-Hoc]*
 - **kattis-chopin**: python string input, difficulty 1.8, *[Ad-Hoc]*
 - **kattis-beatspread**: difficulty 2.4, *[Ad-Hoc]*
-- **kattis-creditcard**: difficulty 5.4, *[Ad-Hoc]*
-- **kattis-friday**: difficulty 2, *[Ad-Hoc]*
+- **kattis-creditcard**: difficulty 5.4, *[Ad-Hoc][Python]*
+- **kattis-friday**: difficulty 2, *[Ad-Hoc][Python]*
+- **kattis-bestbefore**: python date time, list permutations, difficulty 3.7, *[Ad-Hoc][Python]*
+
