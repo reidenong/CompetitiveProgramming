@@ -1,19 +1,18 @@
 import itertools
 import calendar
-
-def leapyear(year):
-    if(year%4 == 0 and year%100 != 0): return 1
-    elif(year%400 == 0): return 1
-    else: return 0
+import datetime
 
 def legitdate(XYZ):
     [X, Y, Z] = XYZ
-    if(X < 1000): X += 2000
+    if(X < 100): X += 2000
+    elif(X >= 100 and X <2000): return 0
+    elif(X >2999): return 0
     try:
-        calendar.weekday(X, Y, Z)
+        #calendar.weekday(X, Y, Z)
+        dateF = datetime.date(year=X, month=Y, day=Z)
     except:
         return 0
-    return [X, Y, Z]
+    return dateF
 
 # Receiving input, processing it into int
 line = input()
@@ -25,22 +24,19 @@ for i in range(len(ABC)):
 permABC = list(itertools.permutations(ABC))
 
 # Removing all useless dates
-dates = []
+max_date = datetime.date(3000,1,1)
+curr_date = max_date
 for perm in permABC:
     if legitdate(perm) != 0:
-        dates += [legitdate(perm)]
+        if legitdate(perm) < curr_date:
+            curr_date = legitdate(perm)
+
 # print(dates)
 
 
 # Sorting dates
-if len(dates) == 0:
+if curr_date > datetime.date(2999,12,31):
     print(line + " is illegal")
 else:
-    dates.sort()
-    dates = dates[0]
-    dates = [str(x) for x in dates]
-    for i in range(3):
-        if int(dates[i]) < 9:
-            dates[i] = "0" + dates[i]
+    print(curr_date)
     
-    print('-'.join(dates))
