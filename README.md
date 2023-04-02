@@ -20,4 +20,5 @@ Archives of all Reiden things regarding competitive programming
 - **kattis-bestbefore**: python date time, list permutations, difficulty 3.7, *[Ad-Hoc][Python]*
 - **kattis-birthdayboy**: difficulty 4.5, *[Ad-Hoc][Python]*
 - **kattis-rimski**: difficulty 4.0, *[Ad-Hoc][Python]*
+- **kattis-conundrum**: difficulty 1.4, *[Ad-Hoc][Python]*
 
