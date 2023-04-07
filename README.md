@@ -21,5 +21,5 @@ Archives of all Reiden things regarding competitive programming
 - **kattis-birthdayboy**: difficulty 4.5, *[Ad-Hoc][Python]*
 - **kattis-rimski**: difficulty 4.0, *[Ad-Hoc][Python]*
 - **kattis-conundrum**: difficulty 1.4, *[Ad-Hoc][Python]*
-- **kattis-secretmessage**: difficulty 1.8, *[Ad-Hoc][Python]*
+- **kattis-secretmessage**: difficulty 1.8, *[Ad-Hoc]*
 
