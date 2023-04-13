@@ -24,4 +24,5 @@ Archives of all Reiden things regarding competitive programming
 - **kattis-secretmessage**: difficulty 1.8, *[Ad-Hoc]*
 - **kattis-timebomb**: difficulty 1.8, *[Ad-Hoc]*
 - **kattis-skener**: difficulty 1.6, *[Ad-Hoc]*
+- **kattis-froggie**: difficulty 6.1, *[Ad-Hoc][Python]*
 
