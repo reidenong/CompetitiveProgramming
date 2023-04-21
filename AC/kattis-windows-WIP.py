@@ -1,3 +1,5 @@
+# Current Status: TLE
+# Better searching algorithm by considering the direct path of each block in range
 import sys
 from copy import deepcopy
 # Receiving input
