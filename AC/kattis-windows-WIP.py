@@ -1,17 +1,29 @@
 import sys
+from copy import deepcopy
 # Receiving input
 xmax, ymax = map(int, input().split())
 windows = []    # [[UpperBound_0, LowerBound_1, LeftBound_2, RightBound_3]...]
+resizing_id = "False"
 
 # Set side box limits
 def OPEN(xywh):
     x, y, w, h = xywh
     upper_bound = y
-    lower_bound = y+h
+    lower_bound = y+h - 1
     left_bound = x
-    right_bound = x+w
+    right_bound = x+w - 1
 
+    global resizing_id
+    global command, command_ctr
     openwindow = True
+
+    # Limit Testing
+    if ((upper_bound < 0 or upper_bound > ymax-1) or
+        (lower_bound < 0 or lower_bound > ymax-1) or
+        (left_bound < 0 or left_bound > xmax-1) or
+        (right_bound < 0 or right_bound > xmax-1)):
+        openwindow = False
+
     # Iterate through each window to test for interference
     global windows
     for window in windows:
@@ -22,11 +34,24 @@ def OPEN(xywh):
             if(window[0] <= upper_bound and window[1] >= upper_bound) or (window[0] <= lower_bound and window[1] >= lower_bound):
                 openwindow = False
                 break
+        
+        # SUS?
+        # One box contains the other
+        if (window[2] >= left_bound and window[3] <= right_bound) or (window[2] <= left_bound and window[3] >= right_bound):
+            if (window[0] <= upper_bound and window[1] >= lower_bound) or (window[0] >= upper_bound and window[1] <= lower_bound):
+                openwindow = False
+                break
+        
+
 
     if openwindow:
-        windows += [[upper_bound, lower_bound, left_bound, right_bound]]
+        if resizing_id != "False":
+            windows.insert(resizing_id,[upper_bound, lower_bound, left_bound, right_bound])
+            resizing_id = "False"
+        else:
+            windows += [[upper_bound, lower_bound, left_bound, right_bound]]
     else:
-        print("window does not fit")
+        print("Command " + str(command_ctr) + ": " + command + " - window does not fit")
 
     return openwindow
 
@@ -35,33 +60,38 @@ def OPEN(xywh):
 # Basically find the top-left of the window with that pixel, then OPEN
 def RESIZE(xywh):
     x, y, w, h = xywh
+    global resizing_id
     nowindow = True
     global windows
+    global command, command_ctr
+    container = deepcopy(windows)
     for i,window in enumerate(windows):
         if (window[2] <= x and window[3] >= x) or (window[2] <= x and window[3] >= x):
             if(window[0] <= y and window[1] >= y) or (window[0] <= y and window[1] >= y):
                 nowindow = False
-                del windows[i]  # Remove old window first
+                resizing_id = i
+                windows.pop(i)  # Remove old window first
                 openwindow = OPEN([window[0], window[2], w, h])
                 if not openwindow:
-                    windows += [window]
-                break
+                    windows = deepcopy(container)                    
+                    break
     if nowindow:
-        print("no window at given position")
+        print("Command " + str(command_ctr) + ": " + command + " - no window at given position")
 
 
 def CLOSE(xy):
     x, y = xy
     global windows
+    global command, command_ctr
     nowindow = True
     for i,window in enumerate(windows):
         if (window[2] <= x and window[3] >= x) or (window[2] <= x and window[3] >= x):
             if(window[0] <= y and window[1] >= y) or (window[0] <= y and window[1] >= y):
-                print("del?",windows[i])
+                #print("del?",windows[i])
                 del windows[i]
                 nowindow = False
     if nowindow:
-        print("no window at given position")
+        print("Command " + str(command_ctr) + ": " + command + " - no window at given position")
 
 # MOVE
 # All windows will only move in 1 direction. 
@@ -71,6 +101,12 @@ def CLOSE(xy):
 # Checks if window can move 1 move in that direction.
 # Returns "True", "False" if limits, window_id if hit window
 def NoWindowDir(windowX, dx, dy):
+    #print("NWD", windowX)
+    global windows
+    global move_group
+    if isinstance(windowX, int):
+        windowX = windows[windowX]
+    
     upper_bound, lower_bound, left_bound, right_bound = windowX
     upper_bound += dy
     lower_bound += dy
@@ -85,7 +121,7 @@ def NoWindowDir(windowX, dx, dy):
         return "False"
 
     # Check if hits another window, return window id if it does
-    global windows
+    
     for i,window in enumerate(windows):
         if window == windowX:
             continue
@@ -95,7 +131,9 @@ def NoWindowDir(windowX, dx, dy):
             # Fails to clear vertically
             if(window[0] <= upper_bound and window[1] >= upper_bound) or (window[0] <= lower_bound and window[1] >= lower_bound):
                 # Hits a window, return window id
-                return i
+                if not i in move_group:
+                    move_group += [i]
+                return NoWindowDir(i, dx, dy)
     return "True"   # str "True" to avoid conflict with windowid=0/1
 
 
@@ -117,28 +155,19 @@ def MOVEid(IDdd):
     right_bound += dx
     windows[idx] = [upper_bound, lower_bound, left_bound, right_bound]
 
-'''
-def MOVE(xydd):
-    x, y, dx, dy = xydd
-    global windows
-    upper_bound, lower_bound, left_bound, right_bound = windows[WindowIdAtPos([x,y])]
-    upper_bound += dy
-    lower_bound += dy
-    left_bound += dx
-    right_bound += dx
-    windows[WindowIdAtPos([x,y])] = [upper_bound, lower_bound, left_bound, right_bound]
-'''
 
+command_ctr = 0
 while(True):
     line = sys.stdin.readline()
     if line == "": break
-
+    
     command = line.split(' ')[0]
     specs = (line.rstrip('\r\n')).split(' ')[1:]
     for i in enumerate(specs):
         specs[i[0]] = int(specs[i[0]])
-    print("DOING-", command, specs)
+    #print("DOING-", command, specs)
 
+    command_ctr += 1
     if command == 'OPEN':
         OPEN(specs)
     if command == 'RESIZE':
@@ -153,61 +182,53 @@ while(True):
         move_group = [WindowIdAtPos([specs[0],specs[1]])]
         #moving_window = WindowIdAtPos([specs[0],specs[1]])
         if move_group[0] == "False":
-            print("no window at given position")
+            print("Command " + str(command_ctr) + ": " + command + " - no window at given position")
             continue
-        units_moved = abs(max(specs[2],specs[3]))
-        direction = 1 if(max(specs[2],specs[3]) > 0 ) else 0
-        '''
-        # Slowly move 1 by 1 and check
-        for i in range(units_moved):
-            # Make sure all windows can move, with last window moving first
-            for move_group_id in reversed(range(len(move_group))):
-                if(abs(specs[2]) > 0):   # move along x axis
-                    movecheck = NoWindowDir(windows[move_group[0]], direction, 0)
-                    if movecheck == "False":            # OOB
-                        units_moved = i
-                        break
-                    elif movecheck != "True":           # Depends on another window
-                        while isinstance(movecheck, int):
-                            move_group += [movecheck]   # Add window id to move_group
-                            movecheck = NoWindowDir(movecheck)
-                        if movecheck == "False":            # OOB
-                            units_moved = i
-                            break
+        units_moved = max(abs(specs[2]), abs(specs[3]))
+        direction = 1 if(max(specs[2],specs[3]) > 0 ) else -1
 
-            if movecheck == "False":            # OOB
-                        units_moved = i
-                        break
-            else:
-                for move_group_id in move_group
-        '''
-        for i in range(units_moved):
-            while(1):
-                for idx in reversed(move_group):
-                    movecheck = NoWindowDir(windows[idx], direction, 0)
-                    print(movecheck)
-                    if(movecheck == "False"):
-                        break
-                    elif(movecheck != "True"):  # Window blocking
-                        move_group += [movecheck]
-                        print(move_group)
-                        break
-                if movecheck == "True" or movecheck == "False": # Moved 1 block
-                    break
-
-            if movecheck == "True":
-                units_moved = i
-                for idx in move_group:
-                    MOVEid([idx, direction, 0])
-            if movecheck == "False":
-                units_moved = i
-                break
+        if specs[2] != 0:   # Moving in X-axis
+            # Can we assume all in move_group wont hit others? ie branch moving
+            for i in range(units_moved):
+                movecheck = NoWindowDir(move_group[0], direction, 0)
+                #print(i, movecheck)
+                #print("move_group", move_group)
                 
+                if movecheck == "True":
+                    for idx in move_group:
+                        MOVEid([idx,direction,0])
+                    #print(windows)
+                    #print("")   
+                else:
+                    units_moved = i
+                    #print(windows, "false")
+                    #print("")
+                    break
+        else:
+            for i in range(units_moved):
+                movecheck = NoWindowDir(move_group[0], 0, direction)
+                #print(i, movecheck)
+                #print("move_group", move_group)
+                
+                if movecheck == "True":
+                    for idx in move_group:
+                        MOVEid([idx,0,direction])
+                    #print(windows)
+                    #print("")   
+                else:
+                    units_moved = i
+                    #print(windows, "false")
+                    #print("")
+                    break
+        if units_moved != max(abs(specs[2]), abs(specs[3])):
+            print("Command " + str(command_ctr) + ": " + command + " - moved " + str(units_moved) + " instead of " + str(max(abs(specs[2]), abs(specs[3]))))
 
-            
+    #print(windows)
+    #print("\n\n")
 
-        units_moved += 1
+print(len(windows), "window(s):")
+for window in windows:
+    print(window[2], window[0], window[1] - window[0] + 1, window[3] - window[2] + 1)
 
-        print("MOVED BY", units_moved)
         
 
