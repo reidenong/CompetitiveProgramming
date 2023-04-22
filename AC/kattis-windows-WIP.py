@@ -1,5 +1,5 @@
 # Current Status: TLE
-# Better searching algorithm by considering the direct path of each block in range
+# Faster simulating algorithm by travelling in 
 import sys
 from copy import deepcopy
 # Receiving input
@@ -130,9 +130,13 @@ def NoWindowDir(windowX, dx, dy):
         # Fails to clear Laterally
         # If right bound fail OR left bound fail
         if (window[2] <= right_bound and window[3] >= right_bound) or (window[2] <= left_bound and window[3] >= left_bound):
-            # Fails to clear vertically
             if(window[0] <= upper_bound and window[1] >= upper_bound) or (window[0] <= lower_bound and window[1] >= lower_bound):
-                # Hits a window, return window id
+                if not i in move_group:
+                    move_group += [i]
+                return NoWindowDir(i, dx, dy)
+        # If a box is detected within another box
+        elif (window[2] >= left_bound and window[3] <= right_bound) or (window[2] <= left_bound and window[3] >= right_bound):
+            if (window[0] <= upper_bound and window[1] >= lower_bound) or (window[0] >= upper_bound and window[1] <= lower_bound):
                 if not i in move_group:
                     move_group += [i]
                 return NoWindowDir(i, dx, dy)
@@ -186,42 +190,28 @@ while(True):
         if move_group[0] == "False":
             print("Command " + str(command_ctr) + ": " + command + " - no window at given position")
             continue
-        units_moved = max(abs(specs[2]), abs(specs[3]))
+        distance = max(abs(specs[2]), abs(specs[3]))
         direction = 1 if(max(specs[2],specs[3]) > 0 ) else -1
-
-        if specs[2] != 0:   # Moving in X-axis
+        xdirection, ydirection = 0,0
+        if specs[2] != 0: xdirection = direction  # Moving in X-axis
+        else: ydirection = direction
             # Can we assume all in move_group wont hit others? ie branch moving
-            for i in range(units_moved):
-                movecheck = NoWindowDir(move_group[0], direction, 0)
-                #print(i, movecheck)
-                #print("move_group", move_group)
-                
-                if movecheck == "True":
-                    for idx in move_group:
-                        MOVEid([idx,direction,0])
-                    #print(windows)
-                    #print("")   
-                else:
-                    units_moved = i
-                    #print(windows, "false")
-                    #print("")
-                    break
-        else:
-            for i in range(units_moved):
-                movecheck = NoWindowDir(move_group[0], 0, direction)
-                #print(i, movecheck)
-                #print("move_group", move_group)
-                
-                if movecheck == "True":
-                    for idx in move_group:
-                        MOVEid([idx,0,direction])
-                    #print(windows)
-                    #print("")   
-                else:
-                    units_moved = i
-                    #print(windows, "false")
-                    #print("")
-                    break
+        
+        units_moved = 0
+        while(units_moved < distance):
+            
+            movecheck = NoWindowDir(move_group[0], xdirection, ydirection)
+            #print(i, movecheck)
+            #print("move_group", move_group)
+            
+            if movecheck == "True":
+                units_moved += 1
+                for idx in move_group:
+                    MOVEid([idx,xdirection,ydirection]) 
+            else:
+                break
+        
+        #print(units_moved)
         if units_moved != max(abs(specs[2]), abs(specs[3])):
             print("Command " + str(command_ctr) + ": " + command + " - moved " + str(units_moved) + " instead of " + str(max(abs(specs[2]), abs(specs[3]))))
 
@@ -233,4 +223,3 @@ for window in windows:
     print(window[2], window[0], window[1] - window[0] + 1, window[3] - window[2] + 1)
 
         
-
