@@ -1,0 +1,75 @@
+Sorting && Searching
+===============================
+
+
+
+For Linear Data Structures
+----------------------------
+
+Bubble Sort - O(n^2)
+> with a sliding window of 2, swap each element in terms of size
+> n iterations of n comparisons
+
+
+Selection Sort - O(n^2)
+> Select the minimum and bring it to the first unsorted position at the front
+> n iterations of n comparisons
+
+
+Insertion Sort - O(n^2)
+> Place the first element in a new "sorted" array
+> For every subsequent unsorted element, add to the back of "sorted" array, then move it down if it is bigger than each element
+> n insertions with n comparisons
+
+
+Merge Sort - O(n log n)
+> Recursively split the array into halves until you reach a pair of values
+> Sort each pair/half and merge sub-arrays until you form the full list
+> Variants: Top Down, Bottom Up, Natural (takes advantage of runs), Ping-Pong
+
+
+Quick Sort (Pivot) - O(n log n)
+> Choose a pivot element. Going down the array, iteratively swap positions of elements smaller than pivot with elements larger than pivot
+> Recursively quick sort left and right partitions once pivot is established
+
+
+Heap Sort - O(n log n)
+> Create a complete binary tree of the array
+> Heapify into max heap
+> Swap top element of max heap with bottom elemetn and remove it (adding to the start of sorted array)
+> Heapify new binary tree and repeat until 2 elements in a max heap remain
+
+
+
+
+Special Sorting Algorithms
+----------------------------
+
+Radix Sort - O(n*d) where d is the number of digits in the largest number
+> Obtain the digital representation of each number
+> Sort all numbers at the least significant digit level using a counting sort
+> Repeat for each digit level until the most significant
+> Stable, but not in-place (requires extra memory)
+
+Counting Sort - O(n + k) where k =  range of elements (largest-smallest)
+> Used when the data is within a very small range
+> Create a frequency array indexed from smallest element to largest element
+> Iterate through unsorted array, noting down the frequency of each element by adding
+> Iterate through frequency array to obtain sorted array
+
+
+Bucket Sort
+> Used when data is uniformly distributed over a range
+> Sort all data into their respective buckets
+> Sort each individual bucket using insertion sort
+> Concatenate all sorted buckets
+
+
+
+Searching Algorithms
+----------------------
+1. Linear Search O(n)
+2. Binary Search O(log n)
+3. Hashing O(1)
+---> Used when fast access to known values is required but ordering of values not important
+
