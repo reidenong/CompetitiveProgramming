@@ -11,5 +11,7 @@ public class App {
         while(s.hasNextInt()) {
             // Receive input
         }
+        
+        s.close();
     }
 }
