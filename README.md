@@ -28,3 +28,4 @@ Archives of all Reiden things regarding competitive programming
 - **kattis-functionalfun**: reading python EOF, difficulty 1.9, *[Ad-Hoc]*, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" />
 - **kattis-jollyjumpers**: Java Input/Output, difficulty 3.2, *[DS]*, <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="18" />
 - **kattis-baloni**: difficulty 3.0, *[Ad-Hoc]*, <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="18" />
+- **kattis-greedilyincreasing**: Java arrayList manipulation, difficulty 2.1, *[DS]*, <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="18" />
