@@ -11,7 +11,10 @@ public class App {
     arrLis.set(0, 200);     // Modify an element, refer to index
     arrLis.remove(0);       // Remove element by index
     
-    Collections.sort(arrLis);           // Sorting
-    int arrLisSize = arrLis.size();     // Get size of arrayList
+    Collections.sort(arrLis);               // Sorting
+    int arrLisSize = arrLis.size();         // Get size of arrayList
+    System.out.println(arrLis.toString());  // Print arrayList
+    System.out.println(arrLis.toString().replace("[","").replace("]","").replace(",",""));
+    // (Printing arrayList with no brackets, commas)
     
 }
