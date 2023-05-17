@@ -30,4 +30,4 @@ Archives of all things regarding competitive programming
 - **kattis-baloni**: difficulty 3.0, *[Ad-Hoc]*, <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="18" />
 - **kattis-greedilyincreasing**: Java arrayList manipulation, difficulty 2.1, *[DS]*, <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="18" />
 - **kattis-divideby100**: difficulty 3.9, *[Ad-Hoc]*, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" />
-- **kattis-mastermind**: Java Strings/Characters exercise, difficulty 2.7, *[Ad-Hoc]*, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" />
+- **kattis-mastermind**: Java Strings/Characters exercise, difficulty 2.7, *[Ad-Hoc]*, <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="18" />
