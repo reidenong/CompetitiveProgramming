@@ -1,5 +1,5 @@
 # Competitive Programming
-Archives of all Reiden things regarding competitive programming
+Archives of all things regarding competitive programming
 
 ### Problem Log
 - **kattis-bela**: difficulty 1.4, *[Ad-Hoc]*, <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red" height="18" />
@@ -29,3 +29,4 @@ Archives of all Reiden things regarding competitive programming
 - **kattis-jollyjumpers**: Java Input/Output, difficulty 3.2, *[DS]*, <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="18" />
 - **kattis-baloni**: difficulty 3.0, *[Ad-Hoc]*, <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="18" />
 - **kattis-greedilyincreasing**: Java arrayList manipulation, difficulty 2.1, *[DS]*, <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="18" />
+- **kattis-divideby100**: difficulty 3.9, *[Ad-Hoc]*, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" />
