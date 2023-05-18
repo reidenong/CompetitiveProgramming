@@ -35,4 +35,4 @@ Archives of all things regarding competitive programming
 - **kattis-epigdanceoff**: Java 2d input, difficulty 2.1, *[DS]*, <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="18" />
 - **kattis-flowshop**: pattern recognition, difficulty 2.4, *[Ad-Hoc]*, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" />
 - **kattis-nineknights**: difficulty 2.3, *[Ad-Hoc]*, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" />
-
+- **kattis-2048**: Python Rotation of 2D List, difficulty 2.8, *[DS]*, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" />
