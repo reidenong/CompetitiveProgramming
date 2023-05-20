@@ -38,6 +38,7 @@ Archives of all things regarding competitive programming
 - **kattis-2048**: Python Rotation of 2D List, difficulty 2.8, *[DS]*, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" />
 - **kattis-flagquiz**: difficulty 3.4, *[Ad-Hoc]*, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" />
 - **kattis-rings2**: difficulty 4.0, *[Ad-Hoc]*, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" />
-- **kattis-basicprogramming2**: difficulty 3.5, *[Ad-Hoc]*, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" />
-- **kattis-height**: insertion sort simulation, difficulty 2.1, *[Ad-Hoc]*, <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red" height="18" />
-- **kattis-mjehuric**: bubble sort simulation, difficulty 1.7, *[Ad-Hoc]*, <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red" height="18" />
+- **kattis-basicprogramming2**: difficulty 3.5, *[Sorting]*, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" />
+- **kattis-height**: insertion sort simulation, difficulty 2.1, *[Sorting]*, <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red" height="18" />
+- **kattis-mjehuric**: bubble sort simulation, difficulty 1.7, *[Sorting]*, <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red" height="18" />
+- **kattis-sidewayssorting**: Python lexographical sort, difficulty 2.3, *[Sorting]*, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" />
