@@ -39,3 +39,4 @@ Archives of all things regarding competitive programming
 - **kattis-flagquiz**: difficulty 3.4, *[Ad-Hoc]*, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" />
 - **kattis-rings2**: difficulty 4.0, *[Ad-Hoc]*, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" />
 - **kattis-basicprogramming2**: difficulty 3.5, *[Ad-Hoc]*, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" />
+- **kattis-height**: insertion sort simulation, difficulty 2.1, *[Ad-Hoc]*, <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red" height="18" />
