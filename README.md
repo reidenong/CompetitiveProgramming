@@ -44,3 +44,4 @@ Archives of all things regarding competitive programming
 - **kattis-sidewayssorting**: Python lexographical sort, difficulty 2.3, *[Sorting]*, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" />
 - **kattis-sortofsorting**: Python key-lambda sort, difficulty 2.1, *[Sorting]*, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" />
 - **kattis-musicyourway**: Difficulty 2.3, *[Sorting]*, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" />
+- **kattis-classy**: Difficulty 4.7, *[Sorting]*, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" />
