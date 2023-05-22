@@ -45,7 +45,7 @@ Archives of all things regarding competitive programming
 - **kattis-sortofsorting**: Python key-lambda sort, difficulty 2.1, *[Sorting]*, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" />
 - **kattis-musicyourway**: Difficulty 2.3, *[Sorting]*, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" />
 - **kattis-classy**: Difficulty 4.7, *[Sorting]*, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" />
-- **kattis-mali**: counting sort implementation, difficulty 6.1, *[Sorting][Greedy]*, <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red" height="18" onclick="www.google.com" />
+- **kattis-mali**: counting sort implementation, difficulty 6.1, *[Sorting][Greedy]*, <a href="www.google.com"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red" height="18" /></a>
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
