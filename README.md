@@ -49,6 +49,7 @@ Archives of all things regarding competitive programming
 - **kattis-bitbybit**: Difficulty 2.9, *[Ad-Hoc]*, <a href="AC/kattis-bitbybit.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
 - **kattis-deathstar**: simultaneous bitwise equations, difficulty 1.8, *[Bitwise]*, <a href="AC/kattis-deathstar.cpp"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red" height="18" /></a>
 - **kattis-snapperhard/snappereasy**: Bitwise simulation, difficulty 2.7, *[Bitwise]*, <a href="AC/kattis-snapperhard.cpp"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red" height="18" /></a>
+- **kattis-primaryarithmetic**: Java Strings, Difficulty 2.5, *[Ad-Hoc]*,  <a href="AC/kattis-primaryarithmetic.java"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="18" /></a>
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
