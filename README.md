@@ -55,6 +55,7 @@ Archives of all things regarding competitive programming
 - **kattis-evenup**: cpp STL Stack, difficulty 2.6, *[Bitwise]*, <a href="AC/kattis-evenup.cpp"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red" height="18" /></a>
 - **kattis-pairingsocks**: python deque stack, Difficulty 2.7, *[DS]*, <a href="AC/kattis-pairingsocks.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
 - **kattis-restaurant**: Difficulty 4.2, *[Ad-Hoc]*, <a href="AC/kattis-restaurant.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
+- **kattis-throwns**: Java STL Stack, Difficulty 2.7, *[DS]*,  <a href="AC/kattis-throwns.java"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="18" /></a>
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
