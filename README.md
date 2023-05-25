@@ -57,7 +57,7 @@ Archives of all things regarding competitive programming
 - **kattis-restaurant**: Difficulty 4.2, *[Ad-Hoc]*, <a href="AC/kattis-restaurant.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
 - **kattis-throwns**: Java STL Stack, Difficulty 2.7, *[DS]*,  <a href="AC/kattis-throwns.java"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="18" /></a>
 - **kattis-bungeebuilder**: Python list stack, Difficulty 3.3, *[Ad-Hoc][DS]*, <a href="AC/kattis-bungeebuilder.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
-
+- **kattis-circuitmath**: Python alphabet lookup table, Difficulty 2.1, *[Ad-Hoc][DS]*, <a href="AC/kattis-circuitmath.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
