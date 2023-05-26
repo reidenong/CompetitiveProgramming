@@ -6,7 +6,7 @@ Archives of all things regarding competitive programming
 - **kattis-shuffling**: difficulty 2.5, *[Ad-Hoc]*, <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red" height="18" />
 - **kattis-memorymatch**: Set of <string, int> pairs, difficulty 4.1, *[DS][Ad-Hoc]*, <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red" height="18" />
 - **kattis-chess**: Python Set intersection, difficulty 2.9, *[Ad-Hoc]*, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" />
-- **kattis-connectthedots**: ASCII keys, Array of int pairs, String line input, difficulty 3.7, *[Ad-Hoc]*, <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red" height="18" />
+- **kattis-connectthedots**: ASCII keys, Array of int pairs, difficulty 3.7, *[Ad-Hoc]*, <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red" height="18" />
 - **kattis-gamerank**: difficulty 3.6, *[Ad-Hoc]*, <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red" height="18" />
 - **kattis-guessinggame**: cin ignore for getline, difficulty 3.1, *[Ad-Hoc]*, <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red" height="18" />
 - **kattis-trik**: difficulty 1.5, *[Ad-Hoc]*, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" />
