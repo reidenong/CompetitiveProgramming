@@ -61,6 +61,7 @@ Archives of all things regarding competitive programming
 - **kattis-delimitersoup**: Difficulty 2.1, *[Ad-Hoc]*, <a href="AC/kattis-delimitersoup.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
 - **kattis-integerlists**: cpp STL deque, difficulty 5.4, *[DS]*, <a href="AC/kattis-integerlists.cpp"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red" height="18" /></a>
 - **kattis-joinstrings**: Iterative DFS, Difficulty 4.8, *[Graph]*, <a href="AC/kattis-joinstrings.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
+- **kattis-sim**: Difficulty 3.8, *[DS]*, <a href="AC/kattis-sim.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
