@@ -65,6 +65,7 @@ Archives of all things regarding competitive programming
 - **kattis-teque**: cpp STL deque, difficulty 3.6, *[DS]*, <a href="AC/kattis-teque.cpp"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red" height="18" /></a>
 - **kattis-numbertree**: Difficulty 2.1, *[Ad-Hoc]*, <a href="AC/kattis-numbertree.cpp"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red" height="18" /></a>
 - **kattis-stockprices**: Py HeapQ Priority Q, Difficulty 4.1, *[DS]*, <a href="AC/kattis-stockprices.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
+- **kattis-knigsoftheforest**: Py HeapQ Priority Q, Difficulty 4.2, *[DS]*, <a href="AC/kattis-knigsoftheforest.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
