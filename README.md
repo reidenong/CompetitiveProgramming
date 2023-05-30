@@ -71,6 +71,8 @@ Archives of all things regarding competitive programming
 - **kattis-quickbrownfox**: Py alphabet list, Difficulty 1.8, *[Ad-Hoc]*, <a href="AC/kattis-quickbrownfox.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
 - **kattis-bookingaroom**: Difficulty 1.4, *[Ad-Hoc]*, <a href="AC/kattis-bookingaroom.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
 - **kattis-busnumbers**: Difficulty 2.6, *[Ad-Hoc]*, <a href="AC/kattis-busnumbers.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
+- **kattis-freefood**: Difficulty 1.6, *[Ad-Hoc]*, <a href="AC/kattis-freefood.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
+
 
 
 ## Unsolved / WIP Questions
