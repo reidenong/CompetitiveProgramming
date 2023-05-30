@@ -68,6 +68,7 @@ Archives of all things regarding competitive programming
 - **kattis-knigsoftheforest**: Py HeapQ Priority Q, Difficulty 4.2, *[DS]*, <a href="AC/kattis-knigsoftheforest.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
 - **kattis-jugglingpatterns**: C++ STL Priority Queue, Difficulty 5.9, *[DS]*, <a href="AC/kattis-jugglingpatterns.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a> <a href="AC/kattis-jugglingpatterns.cpp"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red" height="18" /></a>
 - **kattis-alphabetspam**: Difficulty 1.4, *[Ad-Hoc]*, <a href="AC/kattis-alphabetspam.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
+- **kattis-quickbrownfox**: Py alphabet list, Difficulty 1.8, *[Ad-Hoc]*, <a href="AC/kattis-quickbrownfox.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
