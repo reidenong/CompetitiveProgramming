@@ -6,6 +6,8 @@ kattis-jugglingpatterns
 - collisions mean that the sequence is not legit
 - Additionally extra check at the end as if pattern shows 0, no ball is to be thrown on that
   move so by definition no ball is to be caught either
+-  more elegant solution with priority queues in C++ available at 
+   CompetitivePrograming/AC/kattis-jugglingpatterns.cpp
 
 Time: O(tc 100*patternLength)  
 Space: O(100*patternLength)
