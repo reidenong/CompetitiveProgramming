@@ -72,6 +72,7 @@ Archives of all things regarding competitive programming
 - **kattis-bookingaroom**: Difficulty 1.4, *[Ad-Hoc]*, <a href="AC/kattis-bookingaroom.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
 - **kattis-busnumbers**: Difficulty 2.6, *[Ad-Hoc]*, <a href="AC/kattis-busnumbers.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
 - **kattis-freefood**: Difficulty 1.6, *[Ad-Hoc]*, <a href="AC/kattis-freefood.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
+- **kattis-cd**: CPP unordered set, Difficulty 4.6, *[DS]*, <a href="AC/kattis-cd.cpp"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red" height="18" /></a>
 
 
 
