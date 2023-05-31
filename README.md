@@ -78,6 +78,8 @@ Archives of all things regarding competitive programming
 - **kattis-esej**: Difficulty 2.4, *[DS]*, <a href="AC/kattis-shiritori.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
 - **kattis-recount**: Difficulty 2.1, *[DS]*, <a href="AC/kattis-recount.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
 - **kattis-grandpabernie**: CPP unordered map of vectors, Difficulty 3.2, *[DS]*, <a href="AC/kattis-grandpabernie.cpp"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red" height="18" /></a>
+- **kattis-conversationlog**: Difficulty 2.9, *[DS]*, <a href="AC/kattis-conversationlog.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
+
 
 
 
