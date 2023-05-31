@@ -76,6 +76,7 @@ Archives of all things regarding competitive programming
 - **kattis-esej**: Difficulty 3.2, *[Ad-Hoc]*, <a href="AC/kattis-esej.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
 - **kattis-greetingcard**: CPP set of pairs, Difficulty 4.4, *[DS]*, <a href="AC/kattis-greetingcard.cpp"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red" height="18" /></a>
 - **kattis-esej**: Difficulty 2.4, *[DS]*, <a href="AC/kattis-shiritori.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
+- **kattis-recount**: Difficulty 2.1, *[DS]*, <a href="AC/kattis-recount.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
 
 
 ## Unsolved / WIP Questions
