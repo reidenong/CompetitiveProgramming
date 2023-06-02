@@ -84,6 +84,7 @@ Archives of all things regarding competitive programming
 - **kattis-bst**: not a real bst, Difficulty 6.9, *[DS]*, <a href="AC/kattis-bst.cpp"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red" height="18" /></a>
 - **kattis-candydivision**: Difficulty 4.0, *[DS]*, <a href="AC/kattis-candydivision.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
 - **kattis-compoundwords**: Difficulty 1.8, *[DS]*, <a href="AC/kattis-compoundwords.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
+- **kattis-administrativeproblems**: Difficulty 6.1, *[DS]*, <a href="AC/kattis-administrativeproblems.py"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /></a>
 
 
 ## Unsolved / WIP Questions
