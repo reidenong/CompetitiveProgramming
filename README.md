@@ -3,8 +3,7 @@ Archives of all things regarding competitive programming
 
 ### Problem Log
 
- 1.  **kattis-bela**: difficulty 1.4, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  />
-
+1.  **kattis-bela**: difficulty 1.4, *[Ad-Hoc]*, <a  href="AC/kattis-bela.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
  2.  **kattis-shuffling**: difficulty 2.5, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  />
 
  3.  **kattis-memorymatch**: Set of <string,  int> pairs, difficulty 4.1, *[DS][Ad-Hoc]*, <img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  />
