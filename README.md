@@ -2,91 +2,91 @@
 Archives of all things regarding competitive programming
 
 ### Problem Log
-
 1.  **kattis-bela**: difficulty 1.4, *[Ad-Hoc]*, <a  href="AC/kattis-bela.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
- 2.  **kattis-shuffling**: difficulty 2.5, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  />
 
- 3.  **kattis-memorymatch**: Set of <string,  int> pairs, difficulty 4.1, *[DS][Ad-Hoc]*, <img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  />
+ 2.  **kattis-shuffling**: difficulty 2.5, *[Ad-Hoc]*, <a  href="AC/kattis-shuffling.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
- 4.  **kattis-chess**: Python Set intersection, difficulty 2.9, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  />
+ 3.  **kattis-memorymatch**: Set of <a  href="AC/kattis-memorymatch.java"><img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"  height="18"  /></a>
 
- 5.  **kattis-connectthedots**: ASCII keys, Array of int pairs, difficulty 3.7, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  />
+ 4.  **kattis-chess**: Python Set intersection, difficulty 2.9, *[Ad-Hoc]*, <a  href="AC/kattis-chess.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
- 6.  **kattis-gamerank**: difficulty 3.6, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  />
+ 5.  **kattis-connectthedots**: ASCII keys, Array of int pairs, difficulty 3.7, *[Ad-Hoc]*, <a  href="AC/kattis-connectthedots.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
- 7.  **kattis-guessinggame**: cin ignore for getline, difficulty 3.1, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  />
+ 6.  **kattis-gamerank**: difficulty 3.6, *[Ad-Hoc]*, <a  href="AC/kattis-gamerank.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
- 8.  **kattis-trik**: difficulty 1.5, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  />
+ 7.  **kattis-guessinggame**: cin ignore for getline, difficulty 3.1, *[Ad-Hoc]*, <a  href="AC/kattis-guessinggame.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
- 9.  **kattis-battleship**: difficulty 4.5, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  />
+ 8.  **kattis-trik**: difficulty 1.5, *[Ad-Hoc]*, <a  href="AC/kattis-trik.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
- 10.  **kattis-tictactoe2**: difficulty 5.2, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  />
+ 9.  **kattis-battleship**: difficulty 4.5, *[Ad-Hoc]*, <a  href="AC/kattis-battleship.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
- 11.  **kattis-turtlemaster**: use of pair<int,int> function, difficulty 2.8, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  />
+ 10.  **kattis-tictactoe2**: difficulty 5.2, *[Ad-Hoc]*, <a  href="AC/kattis-tictactoe2.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
- 12.  **kattis-chopin**: python string input, difficulty 1.8, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  />
+ 11.  **kattis-turtlemaster**: use of pair<a  href="AC/kattis-turtlemaster.java"><img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"  height="18"  /></a>
 
- 13.  **kattis-beatspread**: difficulty 2.4, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  />
+ 12.  **kattis-chopin**: python string input, difficulty 1.8, *[Ad-Hoc]*, <a  href="AC/kattis-chopin.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
- 14.  **kattis-creditcard**: difficulty 5.4, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  />
+ 13.  **kattis-beatspread**: difficulty 2.4, *[Ad-Hoc]*, <a  href="AC/kattis-beatspread.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
- 15.  **kattis-friday**: difficulty 2, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  />
+ 14.  **kattis-creditcard**: difficulty 5.4, *[Ad-Hoc]*, <a  href="AC/kattis-creditcard.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
- 16.  **kattis-bestbefore**: python date time, list permutations, difficulty 3.7, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  />
+ 15.  **kattis-friday**: difficulty 2, *[Ad-Hoc]*, <a  href="AC/kattis-friday.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
- 17.  **kattis-birthdayboy**: difficulty 4.5, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  />
+ 16.  **kattis-bestbefore**: python date time, list permutations, difficulty 3.7, *[Ad-Hoc]*, <a  href="AC/kattis-bestbefore.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
- 18.  **kattis-rimski**: difficulty 4.0, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  />
+ 17.  **kattis-birthdayboy**: difficulty 4.5, *[Ad-Hoc]*, <a  href="AC/kattis-birthdayboy.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
- 19.  **kattis-conundrum**: difficulty 1.4, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  />
+ 18.  **kattis-rimski**: difficulty 4.0, *[Ad-Hoc]*, <a  href="AC/kattis-rimski.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
- 20.  **kattis-secretmessage**: difficulty 1.8, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  />
+ 19.  **kattis-conundrum**: difficulty 1.4, *[Ad-Hoc]*, <a  href="AC/kattis-conundrum.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
- 21.  **kattis-timebomb**: difficulty 1.8, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  />
+ 20.  **kattis-secretmessage**: difficulty 1.8, *[Ad-Hoc]*, <a  href="AC/kattis-secretmessage.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
- 22.  **kattis-skener**: difficulty 1.6, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  />
+ 21.  **kattis-timebomb**: difficulty 1.8, *[Ad-Hoc]*, <a  href="AC/kattis-timebomb.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
- 23.  **kattis-froggie**: difficulty 6.1, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  />
+ 22.  **kattis-skener**: difficulty 1.6, *[Ad-Hoc]*, <a  href="AC/kattis-skener.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
- 24.  **kattis-functionalfun**: reading python EOF, difficulty 1.9, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  />
+ 23.  **kattis-froggie**: difficulty 6.1, *[Ad-Hoc]*, <a  href="AC/kattis-froggie.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
- 25.  **kattis-jollyjumpers**: Java Input/Output, difficulty 3.2, *[DS]*, <img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"  height="18"  />
+ 24.  **kattis-functionalfun**: reading python EOF, difficulty 1.9, *[Ad-Hoc]*, <a  href="AC/kattis-functionalfun.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
- 26.  **kattis-baloni**: difficulty 3.0, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"  height="18"  />
+ 25.  **kattis-jollyjumpers**: Java Input/Output, difficulty 3.2, *[DS]*, <a  href="AC/kattis-jollyjumpers.java"><img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"  height="18"  /></a>
 
- 27.  **kattis-greedilyincreasing**: Java arrayList manipulation, difficulty 2.1, *[DS]*, <img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"  height="18"  />
+ 26.  **kattis-baloni**: difficulty 3.0, *[Ad-Hoc]*, <a  href="AC/kattis-baloni.java"><img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"  height="18"  /></a>
 
- 28.  **kattis-divideby100**: difficulty 3.9, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  />
+ 27.  **kattis-greedilyincreasing**: Java arrayList manipulation, difficulty 2.1, *[DS]*, <a  href="AC/kattis-greedilyincreasing.java"><img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"  height="18"  /></a>
 
- 29.  **kattis-mastermind**: Java Strings/Characters exercise, difficulty 2.7, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"  height="18"  />
+ 28.  **kattis-divideby100**: difficulty 3.9, *[Ad-Hoc]*, <a  href="AC/kattis-divideby100.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
- 30.  **kattis-pivot**: Java Stacks, difficulty 2.5, *[DS]*, <img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"  height="18"  />
+ 29.  **kattis-mastermind**: Java Strings/Characters exercise, difficulty 2.7, *[Ad-Hoc]*, <a  href="AC/kattis-mastermind.java"><img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"  height="18"  /></a>
 
- 31.  **kattis-epigdanceoff**: Java 2d input, difficulty 2.1, *[DS]*, <img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"  height="18"  />
+ 30.  **kattis-pivot**: Java Stacks, difficulty 2.5, *[DS]*, <a  href="AC/kattis-pivot.java"><img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"  height="18"  /></a>
 
- 32.  **kattis-flowshop**: pattern recognition, difficulty 2.4, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  />
+ 31.  **kattis-epigdanceoff**: Java 2d input, difficulty 2.1, *[DS]*, <a  href="AC/kattis-epigdanceoff.java"><img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"  height="18"  /></a>
 
- 33.  **kattis-nineknights**: difficulty 2.3, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  />
+ 32.  **kattis-flowshop**: pattern recognition, difficulty 2.4, *[Ad-Hoc]*, <a  href="AC/kattis-flowshop.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
- 34.  **kattis-2048**: Python Rotation of 2D List, difficulty 2.8, *[DS]*, <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  />
+ 33.  **kattis-nineknights**: difficulty 2.3, *[Ad-Hoc]*, <a  href="AC/kattis-nineknights.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
- 35.  **kattis-flagquiz**: difficulty 3.4, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  />
+ 34.  **kattis-2048**: Python Rotation of 2D List, difficulty 2.8, *[DS]*, <a  href="AC/kattis-2048.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
- 36.  **kattis-rings2**: difficulty 4.0, *[Ad-Hoc]*, <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  />
+ 35.  **kattis-flagquiz**: difficulty 3.4, *[Ad-Hoc]*, <a  href="AC/kattis-flagquiz.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
- 37.  **kattis-basicprogramming2**: difficulty 3.5, *[Sorting]*, <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  />
+ 36.  **kattis-rings2**: difficulty 4.0, *[Ad-Hoc]*, <a  href="AC/kattis-rings2.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
- 38.  **kattis-height**: insertion sort simulation, difficulty 2.1, *[Sorting]*, <img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  />
+ 37.  **kattis-basicprogramming2**: difficulty 3.5, *[Sorting]*, <a  href="AC/kattis-basicprogramming2.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
- 39.  **kattis-mjehuric**: bubble sort simulation, difficulty 1.7, *[Sorting]*, <img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  />
+ 38.  **kattis-height**: insertion sort simulation, difficulty 2.1, *[Sorting]*, <a  href="AC/kattis-height.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
- 40.  **kattis-sidewayssorting**: Python lexographical sort, difficulty 2.3, *[Sorting]*, <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  />
+ 39.  **kattis-mjehuric**: bubble sort simulation, difficulty 1.7, *[Sorting]*, <a  href="AC/kattis-mjehuric.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
- 41.  **kattis-sortofsorting**: Python key-lambda sort, difficulty 2.1, *[Sorting]*, <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  />
+ 40.  **kattis-sidewayssorting**: Python lexographical sort, difficulty 2.3, *[Sorting]*, <a  href="AC/kattis-sidewayssorting.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
- 42.  **kattis-musicyourway**: Difficulty 2.3, *[Sorting]*, <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  />
+ 41.  **kattis-sortofsorting**: Python key-lambda sort, difficulty 2.1, *[Sorting]*, <a  href="AC/kattis-sortofsorting.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
- 43.  **kattis-classy**: Difficulty 4.7, *[Sorting]*, <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  />
+ 42.  **kattis-musicyourway**: Difficulty 2.3, *[Sorting]*, <a  href="AC/kattis-musicyourway.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+
+ 43.  **kattis-classy**: Difficulty 4.7, *[Sorting]*, <a  href="AC/kattis-classy.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
  44.  **kattis-mali**: counting sort implementation, difficulty 6.1, *[Sorting][Greedy]*, <a  href="AC/kattis-mali.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
