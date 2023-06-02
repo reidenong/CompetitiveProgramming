@@ -6,7 +6,7 @@ Archives of all things regarding competitive programming
 
  2.  **kattis-shuffling**: difficulty 2.5, *[Ad-Hoc]*, <a  href="AC/kattis-shuffling.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
- 3.  **kattis-memorymatch**: Set of <a  href="AC/kattis-memorymatch.java"><img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"  height="18"  /></a>
+ 3.  **kattis-memorymatch**: Set of <string,  int> pairs, difficulty 4.1, *[DS][Ad-Hoc]*, <a  href="AC/kattis-memorymatch.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
  4.  **kattis-chess**: Python Set intersection, difficulty 2.9, *[Ad-Hoc]*, <a  href="AC/kattis-chess.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
@@ -22,7 +22,7 @@ Archives of all things regarding competitive programming
 
  10.  **kattis-tictactoe2**: difficulty 5.2, *[Ad-Hoc]*, <a  href="AC/kattis-tictactoe2.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
- 11.  **kattis-turtlemaster**: use of pair<a  href="AC/kattis-turtlemaster.java"><img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"  height="18"  /></a>
+ 11.  **kattis-turtlemaster**: use of pair<int,int> function, difficulty 2.8, *[Ad-Hoc]*, <a  href="AC/kattis-turtlemaster.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
  12.  **kattis-chopin**: python string input, difficulty 1.8, *[Ad-Hoc]*, <a  href="AC/kattis-chopin.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
