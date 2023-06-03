@@ -13,7 +13,7 @@ Space: O(N)
 '''
 import math
 
-# Receiving input
+# For each Testcase
 TC = int(input())
 for testcase in range(TC) :
     # Data Structures
