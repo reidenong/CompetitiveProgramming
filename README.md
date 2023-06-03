@@ -167,7 +167,10 @@ Archives of all things regarding competitive programming
  82.  **kattis-compoundwords**: Difficulty 1.8, *[DS]*, <a  href="AC/kattis-compoundwords.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
  83.  **kattis-administrativeproblems**: Difficulty 6.1, *[DS]*, <a  href="AC/kattis-administrativeproblems.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+ 
  84.  **kattis-kattissquest**: CPP map of priority queues, Difficulty 3.4, *[DS]*, <a  href="AC/kattis-kattissquest.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
+ 
+ 85.  **kattis-srednji**: Difficulty 4.0, *[DS]*, <a  href="AC/kattis-srednji.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
 
 ## Unsolved / WIP Questions
