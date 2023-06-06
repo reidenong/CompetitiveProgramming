@@ -171,6 +171,8 @@ Archives of reiden's attempts at competitive programming.
  84.  **kattis-kattissquest**: CPP map of priority queues, Difficulty 3.4, *[DS]*, <a  href="AC/kattis-kattissquest.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
  
  85.  **kattis-srednji**: Difficulty 4.0, *[DS]*, <a  href="AC/kattis-srednji.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
+ 
+ 86.  **kattis-babynames**: Dynamic Ranking, CPP OST pbds, Difficulty 6.1, *[DS]*, <a  href="AC/kattis-babynames.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
 
 ## Unsolved / WIP Questions
