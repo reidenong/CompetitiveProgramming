@@ -179,6 +179,8 @@ Archives of reiden's attempts at competitive programming.
  88.  **kattis-cookieselection**: CPP OST pbds, Difficulty 4.9, *[DS]*, <a  href="AC/kattis-cookieselection.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
  
  89.  **kattis-gcpc**: CPP OST pbds, Difficulty 4.5, *[DS]*, <a  href="AC/kattis-gcpc.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
+ 
+ 90.  **kattis-cardtrick2**: Difficulty 1.8, *[Ad-Hoc]*, <a  href="AC/kattis-cardtrick2.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
 
 ## Unsolved / WIP Questions
