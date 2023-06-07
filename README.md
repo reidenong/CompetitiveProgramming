@@ -177,6 +177,8 @@ Archives of reiden's attempts at competitive programming.
  87.  **kattis-continuousmedian**: CPP OST pbds of pairs, Difficulty 3.4, *[DS]*, <a  href="AC/kattis-continuousmedian.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
  
  88.  **kattis-cookieselection**: CPP OST pbds, Difficulty 4.9, *[DS]*, <a  href="AC/kattis-cookieselection.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
+ 
+ 89.  **kattis-gcpc**: CPP OST pbds, Difficulty 4.5, *[DS]*, <a  href="AC/kattis-gcpc.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
 
 ## Unsolved / WIP Questions
