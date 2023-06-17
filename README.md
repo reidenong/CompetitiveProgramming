@@ -184,6 +184,8 @@ Archives of reiden's attempts at competitive programming.
 
  91. **kattis-pet**: Difficulty 1.4, *[Ad-Hoc]*, <a  href="AC/kattis-pet.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
+ 92. **kattis-blackfriday**: Difficulty 2.4, *[Ad-Hoc]*, <a  href="AC/kattis-blackfriday.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
