@@ -186,7 +186,7 @@ Archives of reiden's attempts at competitive programming.
 
  92. **kattis-blackfriday**: Difficulty 2.4, *[Ad-Hoc]*, <a  href="AC/kattis-blackfriday.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
- 93. **kattis-closestsums**: Difficulty2.4, *[Ad-Hoc]*, <a  href="AC/kattis-closestsums.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
+ 93. **kattis-closestsums**: Difficulty 2.4, *[Ad-Hoc]*, <a  href="AC/kattis-closestsums.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
  94. **kattis-golombrulers**: Difficulty 3.1, *[Ad-Hoc]*, <a  href="AC/kattis-golombrulers.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
@@ -197,6 +197,8 @@ Archives of reiden's attempts at competitive programming.
 97. **kattis-lektira**: Difficulty 2.9, *[Ad-Hoc]*, <a  href="AC/kattis-lektira.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
 98. **kattis-tautology**: Difficulty 3.0, *[Ad-Hoc]*, <a  href="AC/kattis-tautology.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+
+99. **kattis-dancerecital**: CPP Bitmasking, Permutations of int array, Difficulty 3.5, *[BitOp]*, <a  href="AC/kattis-dancerecital.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
 
 
