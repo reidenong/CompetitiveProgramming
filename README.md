@@ -194,6 +194,8 @@ Archives of reiden's attempts at competitive programming.
 
 96. **kattis-calculatingdartscores**: Difficulty 3.0, *[Ad-Hoc]*, <a  href="AC/kattis-calculatingdartscores.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
+97. **kattis-lektira**: Difficulty 2.9, *[Ad-Hoc]*, <a  href="AC/kattis-lektira.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+
 
 
 ## Unsolved / WIP Questions
