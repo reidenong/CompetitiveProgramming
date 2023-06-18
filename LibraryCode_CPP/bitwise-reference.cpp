@@ -1,6 +1,21 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// View binary sequence
+void dec2bin(long n) {
+    long i;
+    cout << "0";
+    for (i = 1 << 30; i > 0; i = i / 2) {
+        if((n & i) != 0) {
+            cout << "1";
+        } else {
+            cout << "0";
+        }
+    }
+    cout << endl;
+}
+
+// Main Bit operations
 int main(){
     int bitmask;
     
