@@ -206,6 +206,8 @@ Archives of reiden's attempts at competitive programming.
 
 102. **kattis-geppetto**: CPP Bitmasking permutations, Difficulty 2.6, *[BitOp]*, <a  href="AC/kattis-geppetto.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
+103. **kattis-squaredeal**: Difficulty 3.9, *[Ad-Hoc]*, <a  href="AC/kattis-squaredeal.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+
 
 
 ## Unsolved / WIP Questions
