@@ -200,6 +200,8 @@ Archives of reiden's attempts at competitive programming.
 
 99. **kattis-dancerecital**: CPP Bitmasking, Permutations of int array, Difficulty 3.5, *[BitOp]*, <a  href="AC/kattis-dancerecital.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
+100. **kattis-dreamer**: Python datetime, Difficulty 2.2, *[Ad-Hoc]*, <a  href="AC/kattis-dreamer.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+
 
 
 ## Unsolved / WIP Questions
