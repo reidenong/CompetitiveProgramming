@@ -204,6 +204,8 @@ Archives of reiden's attempts at competitive programming.
 
 101. **kattis-veci**: Difficulty 1.9, *[Ad-Hoc]*, <a  href="AC/kattis-veci.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
+102. **kattis-geppetto**: CPP Bitmasking, Difficulty 2.6, *[BitOp]*, <a  href="AC/kattis-geppetto.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
+
 
 
 ## Unsolved / WIP Questions
