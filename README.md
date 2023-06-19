@@ -202,6 +202,8 @@ Archives of reiden's attempts at competitive programming.
 
 100. **kattis-dreamer**: Python datetime, Difficulty 2.2, *[Ad-Hoc]*, <a  href="AC/kattis-dreamer.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
+101. **kattis-veci**: Difficulty 1.9, *[Ad-Hoc]*, <a  href="AC/kattis-veci.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+
 
 
 ## Unsolved / WIP Questions
