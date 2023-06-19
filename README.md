@@ -210,6 +210,8 @@ Archives of reiden's attempts at competitive programming.
 
 104. **kattis-zagrade**: Difficulty 3.3, *[Ad-Hoc]*, <a  href="AC/kattis-zagrade.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
+105. **kattis-flexible**: Difficulty 1.8, *[Ad-Hoc]*, <a  href="AC/kattis-flexible.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+
 
 
 ## Unsolved / WIP Questions
