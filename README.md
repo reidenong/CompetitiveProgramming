@@ -1,7 +1,7 @@
 # Competitive Programming
 Archives of reiden's attempts at competitive programming.
 
-### Problem Log - AC
+### Problem Log (AC)
 1.  **kattis-bela**: difficulty 1.4, *[Ad-Hoc]*, <a  href="AC/kattis-bela.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
  2.  **kattis-shuffling**: difficulty 2.5, *[Ad-Hoc]*, <a  href="AC/kattis-shuffling.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
