@@ -15,6 +15,19 @@ void dec2bin(long n) {
     cout << endl;
 }
 
+// Turn off most significant bit
+int offMSBit (int bitmask) {
+    for (int i = 31; i > 0; i--) {
+        int check = bitmask & (1 << i);
+        if (check) {
+            bitmask &= ~(1 << i);
+            return bitmask;
+        }
+    }
+    return bitmask;
+}
+
+
 // Main Bit operations
 int main(){
     int bitmask;
