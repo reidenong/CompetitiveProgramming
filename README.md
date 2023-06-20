@@ -212,6 +212,8 @@ Archives of reiden's attempts at competitive programming.
 
 105. **kattis-flexible**: Difficulty 1.8, *[Ad-Hoc]*, <a  href="AC/kattis-flexible.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
+106. **kattis-communication**: Difficulty 2.1, *[BitOp]*, <a  href="AC/kattis-communication.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
+
 
 
 ## Unsolved / WIP Questions
