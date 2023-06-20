@@ -216,6 +216,8 @@ Archives of reiden's attempts at competitive programming.
 
 107. **kattis-islands**: Difficulty 3.0, *[Ad-Hoc]*, <a  href="AC/kattis-islands.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
+108. **kattis-walls**: Difficulty 4.3, *[Ad-Hoc]*, <a  href="AC/kattis-walls.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+
 
 
 ## Unsolved / WIP Questions
