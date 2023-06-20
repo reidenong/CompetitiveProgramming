@@ -214,6 +214,8 @@ Archives of reiden's attempts at competitive programming.
 
 106. **kattis-communication**: Difficulty 2.1, *[BitOp]*, <a  href="AC/kattis-communication.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
+107. **kattis-islands**: Difficulty 3.0, *[Ad-Hoc]*, <a  href="AC/kattis-islands.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
+
 
 
 ## Unsolved / WIP Questions
