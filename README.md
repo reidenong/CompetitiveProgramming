@@ -224,6 +224,8 @@ Archives of reiden's attempts at competitive programming.
 
 111. **kattis-trollhunt**: Difficulty 2.4, *[Math]*, <a  href="AC/kattis-trollhunt.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
+112. **kattis-videospeedup**: Difficulty 1.8, *[Math]*, <a  href="AC/kattis-videospeedup.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+
 
 
 ## Unsolved / WIP Questions
