@@ -228,6 +228,8 @@ Archives of reiden's attempts at competitive programming.
 
 113. **kattis-crackingrsa**: Sieve of Eratosthenes, Difficulty 2.1, *[Math]*, <a  href="AC/kattis-crackingrsa.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
+114. **kattis-falling**: Prime factorization, Difficulty 4.0, *[Math]*, <a  href="AC/kattis-falling.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+
 
 
 ## Unsolved / WIP Questions
