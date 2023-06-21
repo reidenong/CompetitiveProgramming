@@ -230,6 +230,8 @@ Archives of reiden's attempts at competitive programming.
 
 114. **kattis-falling**: Prime factorization, Difficulty 4.0, *[Math]*, <a  href="AC/kattis-falling.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
+115. **kattis-thanosthehero**: Difficulty 3.7, *[Math]*, <a  href="AC/kattis-thanosthehero.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+
 
 
 ## Unsolved / WIP Questions
