@@ -10,10 +10,13 @@ kattis-falling
 
 - do prime factorization for D, then check all factors for the above 
   formula
+- for D <= 200000, the value of D with the most factors is
+  D = 166320 with 160 factors. so worst case is O(80 pairs) which is still
+  relatively very fast
+- bottleneck is probably the prime factorization
 
-
-Time: O(number of factors of D)
-Space: O(number of factors of D)
+Time: O(D^0.5)
+Space: O(160 numbers) = O(1)
 '''
 from math import ceil
 import sys
