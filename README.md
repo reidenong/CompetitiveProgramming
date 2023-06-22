@@ -240,6 +240,8 @@ Archives of reiden's attempts at competitive programming.
 
 119. **kattis-goodmorning**: Difficulty 2.8, *[Ad-Hoc]*, <a  href="AC/kattis-goodmorning.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
+120. **kattis-natjecanje**: Difficulty 2.3, *[Ad-Hoc]*, <a  href="AC/kattis-natjecanje.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+
 
 
 ## Unsolved / WIP Questions
