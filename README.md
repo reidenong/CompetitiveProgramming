@@ -234,6 +234,8 @@ Archives of reiden's attempts at competitive programming.
 
 116. **kattis-eenymeeny**: Difficulty 1.8, *[Ad-Hoc]*, <a  href="AC/kattis-eenymeeny.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
+117. **kattis-musicalchairs**: Difficulty 3.6, *[Ad-Hoc]*, <a  href="AC/kattis-musicalchairs.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+
 
 
 ## Unsolved / WIP Questions
