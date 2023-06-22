@@ -236,6 +236,8 @@ Archives of reiden's attempts at competitive programming.
 
 117. **kattis-musicalchairs**: Difficulty 3.6, *[Ad-Hoc]*, <a  href="AC/kattis-musicalchairs.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
+118. **kattis-toys**: general case Josephus problem, Difficulty 4.0, *[Math]*, <a  href="AC/kattis-toys.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
+
 
 
 ## Unsolved / WIP Questions
