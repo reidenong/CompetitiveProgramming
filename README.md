@@ -246,6 +246,8 @@ Archives of reiden's attempts at competitive programming.
 
 122. **kattis-dobra**: Recursive backtracking, Difficulty 3.6, *[Recursion]*, <a  href="AC/kattis-dobra.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
+123. **kattis-fruitbaskets**: Recursive backtracking, Difficulty 4.5, *[Recursion]*, <a  href="AC/kattis-fruitbaskets.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+
 
 
 ## Unsolved / WIP Questions
