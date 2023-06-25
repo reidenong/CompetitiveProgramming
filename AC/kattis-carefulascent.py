@@ -8,6 +8,8 @@ kattis-carefulascent
 - This means with minimum 45 iterations, BSTA will yield a answer at greater
   precision than 1e-6, although we use 50 iterations because 50 is a nice
   number
+- Other general observations are that since vertical speed is 1, time spent in each
+  movement period is just equal to the height of the shield it is moving through
 
 Time: O(N * 50) = O(N)
 Space: O(N)
