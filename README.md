@@ -256,6 +256,8 @@ Archives of reiden's attempts at competitive programming.
 
 126. **kattis-outofsorts**: PY Binary search, Difficulty 2.9, *[BinarySearch]*, <a  href="AC/kattis-outofsorts.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
+127. **kattis-roompainting**: Difficulty 3.7, *[BinarySearch]*, <a  href="AC/kattis-roompainting.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
+
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
