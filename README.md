@@ -250,6 +250,8 @@ Archives of reiden's attempts at competitive programming.
 
 124. **kattis-pagelayout**: Combinatoric Recursive backtracking, Difficulty 5.4, *[Recursion]*, <a  href="AC/kattis-pagelayout.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
+125. **kattis-firefly**: PY Binary search bisect, Difficulty 3.3, *[BinarySearch]*, <a  href="AC/kattis-firefly.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+
 
 
 ## Unsolved / WIP Questions
