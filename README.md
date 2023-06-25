@@ -252,7 +252,7 @@ Archives of reiden's attempts at competitive programming.
 
 125. **kattis-firefly**: PY Binary search bisect, Difficulty 3.3, *[BinarySearch]*, <a  href="AC/kattis-firefly.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
-125. **kattis-firefly**: PY Binary search bisect, Difficulty 3.3, *[BinarySearch]*, <a  href="AC/kattis-firefly.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+125. **kattis-firefly**: PY bisect module, Difficulty 3.3, *[BinarySearch]*, <a  href="AC/kattis-firefly.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
 126. **kattis-outofsorts**: PY Binary search, Difficulty 2.9, *[BinarySearch]*, <a  href="AC/kattis-outofsorts.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
