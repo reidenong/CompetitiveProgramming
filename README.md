@@ -264,6 +264,8 @@ Archives of reiden's attempts at competitive programming.
 
 130. **kattis-monk**: PY BSTA, Difficulty 3.3, *[BinarySearch]*, <a  href="AC/kattis-monk.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
+**kattis-suspensionbridges**: PY BSTA, Difficulty 3.0, *[BinarySearch]*, <a  href="AC/kattis-suspensionbridges.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
