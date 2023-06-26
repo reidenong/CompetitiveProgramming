@@ -268,6 +268,8 @@ Archives of reiden's attempts at competitive programming.
 
 132. **kattis-a1paper**: Difficulty 3.9, *[Greedy][Math]*, <a  href="AC/kattis-a1paper.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
+133. **kattis-ceiling**: PY Binary Search Tree, Difficulty 2.2, *[DS]*, <a  href="AC/kattis-ceiling.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
