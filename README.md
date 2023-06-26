@@ -264,7 +264,9 @@ Archives of reiden's attempts at competitive programming.
 
 130. **kattis-monk**: PY BSTA, Difficulty 3.3, *[BinarySearch]*, <a  href="AC/kattis-monk.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
-**kattis-suspensionbridges**: PY BSTA, Difficulty 3.0, *[BinarySearch]*, <a  href="AC/kattis-suspensionbridges.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+131. **kattis-suspensionbridges**: PY BSTA, Difficulty 3.0, *[BinarySearch][Math]*, <a  href="AC/kattis-suspensionbridges.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+
+132. **kattis-a1paper**: Difficulty 3.9, *[Greedy][Math]*, <a  href="AC/kattis-a1paper.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
 
 ## Unsolved / WIP Questions
