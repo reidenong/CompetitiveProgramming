@@ -1,7 +1,7 @@
 # Competitive Programming
 Archives of reiden's attempts at competitive programming.
 
-### Problem Log (AC)
+## Problem Log (AC)
 Use ``` Ctrl + F ``` to search for questions, keywords or tags.
 
 > TAGS : [Ad-Hoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph]
