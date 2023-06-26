@@ -270,6 +270,7 @@ Archives of reiden's attempts at competitive programming.
 
 133. **kattis-ceiling**: PY Binary Search Tree, Difficulty 2.2, *[DS]*, <a  href="AC/kattis-ceiling.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
+134. **kattis-froshweek2**: Difficulty 2.2, *[Greedy]*, <a  href="AC/kattis-froshweek2.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
