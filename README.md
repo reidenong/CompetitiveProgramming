@@ -287,6 +287,8 @@ Use ``` Ctrl + F ``` to search for questions, keywords or tags.
 
 140. **kattis-birds**: Difficulty 3.6, *[Ad-Hoc]*, <a  href="AC/kattis-birds.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
+141. **kattis-delivery**: Difficulty 2.9, *[Greedy]*, <a  href="AC/kattis-delivery.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
