@@ -279,6 +279,9 @@ Use ``` Ctrl + F ``` to search for questions, keywords or tags.
 
 136. **kattis-icpcteamselection**: Difficulty 3.3, *[Greedy]*, <a  href="AC/kattis-icpcteamselection.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
+137. **kattis-minimumscalar**: Difficulty 2.2, *[Greedy]*, <a  href="AC/kattis-minimumscalar.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+
+
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
  - **kattis-bread**: sorting question through operation abc --> cab (rotation of subsequence 3)
