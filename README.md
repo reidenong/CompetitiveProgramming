@@ -283,6 +283,8 @@ Use ``` Ctrl + F ``` to search for questions, keywords or tags.
 
 138. **kattis-shopaholic**: Difficulty 2.2, *[Greedy]*, <a  href="AC/kattis-shopaholic.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
+139. **kattis-airconditioned**: Interval Scheduling problem, Difficulty 3.4, *[Greedy]*, <a  href="AC/kattis-airconditioned.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
