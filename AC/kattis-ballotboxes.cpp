@@ -17,8 +17,11 @@ kattis-ballotboxes
   have N insertions, and B queries and updates.
   result: AC, Time: O(B * log N)
 
-- double is used to maintain accuracy for small numbers. unsure if necessary but
-  good to consider ig
+- double is necessary to maintain accuracy with multiple division and multiplication
+  operations throughout. rounding not robsust enough for all cases.'
+
+- important to use ceil at the end to output answer as they want Maximum number of voters
+  per box so ceil is necessary
 
 Time: O(B * log N)
 Space: O(N)
@@ -62,6 +65,7 @@ int main () {
         }
 
         // Output answer
+        // USE CEIL !!!
         cout << ceil(ballots.top().first) << endl;
     }
     return 0;
