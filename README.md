@@ -293,6 +293,8 @@ Use ``` Ctrl + F ``` to search for questions, keywords or tags.
 
 143. **kattis-canvas**: Difficulty 3.5, *[Greedy][DS]*, <a  href="AC/kattis-canvas.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
+144. **kattis-vegetables**: Difficulty 3.3, *[Greedy]*, <a  href="AC/kattis-vegetables.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
