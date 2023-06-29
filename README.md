@@ -291,6 +291,8 @@ Use ``` Ctrl + F ``` to search for questions, keywords or tags.
 
 142. **kattis-ballotboxes**: Difficulty 4.3, *[Greedy][DS]*, <a  href="AC/kattis-ballotboxes.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
+143. **kattis-canvas**: Difficulty 3.5, *[Greedy][DS]*, <a  href="AC/kattis-canvas.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
