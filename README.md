@@ -299,6 +299,8 @@ Use ``` Ctrl + F ``` to search for questions, keywords or tags.
 
 146. **kattis-ants**: Difficulty 2.3, *[Ad-Hoc]*, <a  href="AC/kattis-ants.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
+147. **kattis-bank**: Difficulty 2.8, *[Greedy][DS]*, <a  href="AC/kattis-bank.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
