@@ -304,6 +304,8 @@ Use ``` Ctrl + F ``` to search for questions, keywords or tags.
 
 149. **kattis-stockbroker**: Difficulty 3.3, *[Greedy]*, <a  href="AC/kattis-stockbroker.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
+150. **kattis-virus**: Difficulty 3.5, *[Ad-Hoc]*, <a  href="AC/kattis-virus.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
