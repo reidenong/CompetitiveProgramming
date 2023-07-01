@@ -5,6 +5,7 @@ Archives of reiden's attempts at competitive programming.
 Use ``` Ctrl + F ``` to search for questions, keywords or tags.
 
 > TAGS : [Ad-Hoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph]
+
 1.  **kattis-bela**: difficulty 1.4, *[Ad-Hoc]*, <a  href="AC/kattis-bela.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
  2.  **kattis-shuffling**: difficulty 2.5, *[Ad-Hoc]*, <a  href="AC/kattis-shuffling.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
@@ -254,8 +255,6 @@ Use ``` Ctrl + F ``` to search for questions, keywords or tags.
 124. **kattis-pagelayout**: Combinatoric Recursive backtracking, Difficulty 5.4, *[Recursion]*, <a  href="AC/kattis-pagelayout.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
 125. **kattis-firefly**: PY Binary search bisect, Difficulty 3.3, *[BinarySearch]*, <a  href="AC/kattis-firefly.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
-
-125. **kattis-firefly**: PY bisect module, Difficulty 3.3, *[BinarySearch]*, <a  href="AC/kattis-firefly.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
 126. **kattis-outofsorts**: PY Binary search, Difficulty 2.9, *[BinarySearch]*, <a  href="AC/kattis-outofsorts.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
