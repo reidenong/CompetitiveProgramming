@@ -310,6 +310,8 @@ Use ``` Ctrl + F ``` to search for questions, keywords or tags.
 
 152. **kattis-prozor**: 2D Fixed RangeSum, Difficulty 1.8, *[Ad-Hoc]*, <a  href="AC/kattis-prozor.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
+153. **kattis-sellingspatulas**: 1D Max RangeSum, Kadane, Difficulty 7.3, *[DP]*, <a  href="AC/kattis-sellingspatulas.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
+
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
