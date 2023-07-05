@@ -14,7 +14,7 @@ WIP!
 - <a  href="Archives/vector-tuple-sort.cpp">Vector of Tuples</a>
 
 **Dynamic Programming**
-- <a  href="Archives/knapsack.cpp">0-1 Knapsack with Backtracking</a>
+- <a  href="Archives/knapsack.cpp">O(N*C) 0-1 Knapsack with Backtracking</a>
 
 <br></br>
 ## Python
@@ -23,7 +23,7 @@ WIP!
 
 **Dynamic Programming**
 - <a  href="Archives/kadane.py">O(N) Kadane's Algorithm</a>
-- <a  href="Archives/LIS.py">O(N log K) LIS</a>
+- <a  href="Archives/LIS.py">O(N log K) LIS with backtracking</a>
 
 <br></br>
 ## Java
