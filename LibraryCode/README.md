@@ -13,6 +13,9 @@ WIP!
 **Data Structures**
 - <a  href="Archives/vector-tuple-sort.cpp">Vector of Tuples</a>
 
+**Dynamic Programming**
+- <a  href="Archives/knapsack.cpp">0-1 Knapsack with Backtracking</a>
+
 <br></br>
 ## Python
 **Data Structures**
