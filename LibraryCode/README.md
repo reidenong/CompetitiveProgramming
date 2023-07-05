@@ -4,7 +4,7 @@ Used mostly in languages C++, Python and Java.
 
 ## C++
 **General**
-- <a href="Archives/bitwise-reference.cpp> bit </a>
+- <a  href="Archives/bitwise-reference.cpp">Bitwise Operations</a>
 
 ## Python
 
