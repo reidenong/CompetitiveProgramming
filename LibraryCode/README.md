@@ -29,7 +29,7 @@ WIP!
 - <a  href="Archives/io_reference.java">I/O Templates</a>
 
 **Data Structures**
-- <a  href="Archives/basic_ds_reference">ArrLis (vector) Templates</a>
+- <a  href="Archives/basic_ds_reference.java">ArrLis (vector) Templates</a>
 
 
 
