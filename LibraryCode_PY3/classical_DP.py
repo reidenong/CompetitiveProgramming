@@ -21,6 +21,8 @@ O(N log K) Longest Increasing Subsequence (LIS)
 Time: O(N log K) where K is the length of LIS
 Space: O(N)
 '''
+from bisect import *
+
 def LIS (arr) :
     inLIS = set()
     seq = []
