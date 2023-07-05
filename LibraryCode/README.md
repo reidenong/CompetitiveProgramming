@@ -14,7 +14,7 @@ WIP!
 - <a  href="Archives/vector-tuple-sort.cpp">Vector of Tuples</a>
 
 **Dynamic Programming**
-- <a  href="Archives/knapsack.cpp">O(N*C) 0-1 Knapsack with Backtracking</a>
+- <a  href="Archives/knapsack.cpp">O(NC) 0-1 Knapsack with Backtracking</a>
 
 <br></br>
 ## Python
