@@ -318,6 +318,8 @@ Use ``` Ctrl + F ``` to search for questions, keywords or tags.
 
 156. **kattis-trainsorting**: LIS/LDS with anchor, Difficulty 6.5, *[DP]*, <a  href="AC/kattis-trainsorting.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
+157. **kattis-knapsack**: Classic 0-1 Knapsack, Difficulty 4.9, *[DP]*, <a  href="AC/kattis-knapsack.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
+
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
