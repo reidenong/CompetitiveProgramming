@@ -2,6 +2,7 @@
 Repository of code snippets commonly used in CP. 
 Used mostly in languages C++, Python and Java.
 
+<br></br>
 ## C++
 **General**
 - <a  href="Archives/fast-template.cpp">Fast I/O Template</a>
@@ -18,7 +19,7 @@ Used mostly in languages C++, Python and Java.
 - <a  href="Archives/kadane.py">O(N) Kadane's Algorithm</a>
 - <a  href="Archives/LIS.py">O(N log K) LIS</a>
 
-</br>
+<br></br>
 ## Java
 **General**
 - <a  href="Archives/template.java">Basic Template</a>
