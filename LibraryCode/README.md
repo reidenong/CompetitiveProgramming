@@ -2,14 +2,29 @@
 Repository of code snippets commonly used in CP. 
 Used mostly in languages C++, Python and Java.
 
-### C++
+## C++
 **General**
 - <a  href="Archives/fast-template.cpp">Fast I/O Template</a>
 - <a  href="Archives/bitwise-reference.cpp">Bitwise Operations</a>
 
 **Data Structures**
-- <a  href="vector-tuple-sort.cpp">Vector of Tuples</a>
+- <a  href="Archives/vector-tuple-sort.cpp">Vector of Tuples</a>
 
-### Python
+</br>
+## Python
+**Data Structures**
+- <a  href="Archives/basic_ds_reference.py">List Rotation</a>
+**Dynamic Programming**
+- <a  href="Archives/kadane.py">O(N) Kadane's Algorithm</a>
+- <a  href="Archives/LIS.py">O(N log K) LIS</a>
 
+</br>
 ## Java
+**General**
+- <a  href="Archives/template.java">Basic Template</a>
+- <a  href="Archives/io_reference.java">I/O Templates</a>
+**Data Structures**
+- <a  href="Archives/basic_ds_reference">ArrLis (vector) Templates</a>
+
+
+
