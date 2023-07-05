@@ -15,6 +15,7 @@ Used mostly in languages C++, Python and Java.
 ## Python
 **Data Structures**
 - <a  href="Archives/basic_ds_reference.py">List Rotation</a>
+
 **Dynamic Programming**
 - <a  href="Archives/kadane.py">O(N) Kadane's Algorithm</a>
 - <a  href="Archives/LIS.py">O(N log K) LIS</a>
@@ -24,6 +25,7 @@ Used mostly in languages C++, Python and Java.
 **General**
 - <a  href="Archives/template.java">Basic Template</a>
 - <a  href="Archives/io_reference.java">I/O Templates</a>
+
 **Data Structures**
 - <a  href="Archives/basic_ds_reference">ArrLis (vector) Templates</a>
 
