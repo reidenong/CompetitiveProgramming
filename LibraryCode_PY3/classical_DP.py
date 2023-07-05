@@ -32,6 +32,9 @@ def LIS (arr) :
             continue
         
         pos = bisect_left(seq, elem)
+        # Use bisect_right if LIS is allowed to have duplicates,
+        # ie. {3, 5, 6, 6, 7 }
+
         if pos == len(seq) :
             seq.append(elem)
             predecessors[elem] = seq[-2]
