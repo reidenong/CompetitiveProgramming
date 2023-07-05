@@ -10,7 +10,7 @@ Used mostly in languages C++, Python and Java.
 **Data Structures**
 - <a  href="Archives/vector-tuple-sort.cpp">Vector of Tuples</a>
 
-</br>
+<br></br>
 ## Python
 **Data Structures**
 - <a  href="Archives/basic_ds_reference.py">List Rotation</a>
