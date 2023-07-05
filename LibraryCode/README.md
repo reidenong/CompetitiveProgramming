@@ -24,6 +24,7 @@ WIP!
 **Dynamic Programming**
 - <a  href="Archives/kadane.py">O(N) Kadane's Algorithm</a>
 - <a  href="Archives/LIS.py">O(N log K) LIS with backtracking</a>
+- <a  href="Archives/lru_knapsack.py">O(NC) 0-1 Knapsack with LRU Cacheing</a>
 
 <br></br>
 ## Java
