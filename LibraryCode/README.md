@@ -4,7 +4,22 @@ Used mostly in languages C++, Python and Java.
 
 WIP!
 
-<br></br>
+### Generics
+- Fast I/O Templates
+- Bitwise Operations
+
+### Data Structures
+- Vector/ArrLis reference
+
+### Dynamic Programming
+- Kadane's Algorithm
+- LIS with backtrack
+- 0/1 Knapsack
+
+### Number Theory
+- Fast exponentiation
+- Primes
+
 ## C++
 **General**
 - <a  href="Archives/fast-template.cpp">Fast I/O Template</a>
