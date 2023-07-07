@@ -21,13 +21,3 @@ WIP!
 ### Number Theory
 - Fast exponentiation
 - Primes
-
-<br></br>
-## Java
-**General**
-- <a  href="Archives/template.java">Basic Template</a>
-- <a  href="Archives/io_reference.java">I/O Templates</a>
-
-
-
-
