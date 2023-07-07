@@ -11,25 +11,16 @@ WIP!
 
 ### Data Structures
 - Vector/ArrLis reference <a href="CPP/vector-tuple-sort.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
-- Array Rotation
+- Array Rotation  <a href="PY/arrayrotation.py"><img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 ### Dynamic Programming
-- Kadane's Algorithm
-- LIS with backtrack
-- 0/1 Knapsack with backtrack <a href="CPP/knapsack.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+- Kadane's Algorithm <a href="PY/kadane.py"><img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+- LIS with backtrack <a href="PY/LIS.py"><img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+- 0/1 Knapsack with backtrack <a href="CPP/knapsack.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a> <a href="PY/lru_knapsack.py"><img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 ### Number Theory
 - Fast exponentiation
 - Primes
-
-## Python
-**Data Structures**
-- <a  href="Archives/basic_ds_reference.py">List Rotation</a>
-
-**Dynamic Programming**
-- <a  href="Archives/kadane.py">O(N) Kadane's Algorithm</a>
-- <a  href="Archives/LIS.py">O(N log K) LIS with backtracking</a>
-- <a  href="Archives/lru_knapsack.py">O(NC) 0-1 Knapsack with LRU Cacheing</a>
 
 <br></br>
 ## Java
