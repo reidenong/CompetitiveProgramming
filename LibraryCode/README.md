@@ -4,7 +4,7 @@ Used mostly in languages C++, Python and Java.
 
 WIP!
 
- 2.  **kattis-shuffling**: difficulty 2.5, *[Ad-Hoc]*, <a  href="AC/kattis-shuffling.cpp"><img  src="https://img.shields.io/badge/Python-blue"  height="18"  /></a>
+ 2.  **kattis-shuffling**: difficulty 2.5, *[Ad-Hoc]*, <a  href="AC/kattis-shuffling.cpp"><img  src="https://img.shields.io/badge/python-blue"  height="18"  /></a>
 
  3.  **kattis-memorymatch**: Set of <string,  int> pairs, difficulty 4.1, *[DS][Ad-Hoc]*, <a  href="AC/kattis-memorymatch.py">  <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  height="18"  /></a>
 
