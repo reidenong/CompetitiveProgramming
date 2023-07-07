@@ -320,6 +320,8 @@ Use ``` Ctrl + F ``` to search for questions, keywords or tags.
 
 157. **kattis-knapsack**: Classic 0-1 Knapsack, Difficulty 4.9, *[DP]*, <a  href="AC/kattis-knapsack.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
 
+158. **kattis-presidentialelections**: 0-1 Knapsack Variant, Difficulty 4.8, *[DP]*, <a  href="AC/kattis-presidentialelections.cpp"><img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"  height="18"  /></a>
+
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
