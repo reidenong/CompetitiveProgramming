@@ -18,6 +18,8 @@ O(N log K) Longest Increasing Subsequence (LIS)
   lexographically smallest LIS by just seeing the last element of the LIS and backtracking
   its predecessors
 
+- To get LDS, can use this with negative numbers or find the LIS of the reversed array
+
 Time: O(N log K) where K is the length of LIS
 Space: O(N)
 '''
