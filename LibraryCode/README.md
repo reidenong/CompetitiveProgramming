@@ -6,11 +6,11 @@ WIP!
 
 
 ### Generics
-- Fast I/O Templates  <a href="CPP/fast-template.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+- Fast I/O Templates  <a href="CPP/fast-template.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a> <a href="JAVA/io_reference.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
 - Bitwise Operations <a href="CPP/bitwise-reference.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
 ### Data Structures
-- Vector/ArrLis reference <a href="CPP/vector-tuple-sort.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+- Vector/ArrLis reference <a href="CPP/vector-tuple-sort.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a> <a href="JAVA/basic_ds_reference.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
 - Array Rotation  <a href="PY/arrayrotation.py"><img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 ### Dynamic Programming
@@ -28,8 +28,6 @@ WIP!
 - <a  href="Archives/template.java">Basic Template</a>
 - <a  href="Archives/io_reference.java">I/O Templates</a>
 
-**Data Structures**
-- <a  href="Archives/basic_ds_reference.java">ArrLis (vector) Templates</a>
 
 
 
