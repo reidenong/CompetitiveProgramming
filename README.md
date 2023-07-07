@@ -1,4 +1,4 @@
-# Competitive Programming ![Static Badge](https://img.shields.io/badge/C%2B%2B-11.3.0-purple)
+# Competitive Programming <img  src="https://img.shields.io/badge/C%2B%2B-11.3.0-purple"  height="18"  />
 Archives of reiden's attempts at competitive programming.
 
 ## Problem Log (AC)
