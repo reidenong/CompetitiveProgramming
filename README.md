@@ -322,6 +322,8 @@ Use ``` Ctrl + F ``` to search for questions, keywords or tags.
 
 158. **kattis-presidentialelections**: 0-1 Knapsack Variant, Difficulty 4.8, *[DP]*, <a  href="AC/kattis-presidentialelections.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
+159. **kattis-orders**: Coin Change Variant, Difficulty 5.4, *[DP]*, <a  href="AC/kattis-orders.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
