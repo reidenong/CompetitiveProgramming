@@ -19,7 +19,7 @@ WIP!
 - LIS with backtrack <a href="CPP/LIS.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a> <a href="PY/LIS.py"><img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 - 0/1 Knapsack with backtrack <a href="CPP/knapsack.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a> <a href="PY/lru_knapsack.py"><img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
-### Number Theory
+### Discrete Mathematics
 - PnC <a href="CPP/pnc.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 - Fast exponentiation
 - Primes
