@@ -18,6 +18,7 @@ WIP!
 - Kadane's Algorithm <a href="CPP/kadane.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a> <a href="PY/kadane.py"><img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 - LIS with backtrack <a href="CPP/LIS.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a> <a href="PY/LIS.py"><img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 - 0/1 Knapsack with backtrack <a href="CPP/knapsack.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a> <a href="PY/lru_knapsack.py"><img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+- Coin Change <a href="CPP/coinchange.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a> <a href="PY/coinchange.py"><img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 ### Discrete Mathematics
 - PnC <a href="CPP/pnc.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
