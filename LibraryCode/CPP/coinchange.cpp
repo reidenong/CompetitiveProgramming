@@ -7,6 +7,8 @@ Coin Change
 - This algorithm assumes that it is guaranteed to be able to form V with
   the given coin sizings
 
+- if necessary, replace int with long long
+
 Time: O(NV)
 Space: O(NV)
 */
@@ -22,7 +24,7 @@ int memo[2000001];
 int DP (int price) {
     // Base Cases
     if (price == 0) return 0;
-    if (price < 0) return 2e9;
+    if (price < 0) return 2e9;  // Arbitrarily large number
 
     // Check if computed before
     int &ans = memo[price];
