@@ -326,6 +326,8 @@ Use ``` Ctrl + F ``` to search for questions, keywords or tags.
 
 160. **kattis-bagoftiles**: Knapsack variant, Difficulty 6.2, *[DP]*, <a  href="AC/kattis-bagoftiles.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
+161. **kattis-canonical**: coin change, Difficulty 4.7, *[DP]*, <a  href="AC/kattis-canonical.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
