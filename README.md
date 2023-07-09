@@ -2,6 +2,7 @@
 Archives of reiden's attempts at competitive programming.
 
 ### <a  href="LibraryCode">> Library Code</a>
+### <a  href="GeneralNotes">> General Notes</a>
 ### [> Problem Log](#problem-log-ac)
 
 
