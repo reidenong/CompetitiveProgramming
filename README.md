@@ -4,6 +4,7 @@ Archives of reiden's attempts at competitive programming.
 ### <a  href="LibraryCode">> Code Library</a>
 ### <a  href="GeneralNotes">> General Notes</a>
 ### [> Problem Log](#problem-log-ac)
+### [> WIP Questions](#unsolved--wip-questions)
 
 
 
