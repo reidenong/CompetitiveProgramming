@@ -335,6 +335,8 @@ Use ``` Ctrl + F ``` to search for questions, keywords or tags.
 
 161. **kattis-canonical**: coin change, Difficulty 4.7, *[DP]*, <a  href="AC/kattis-canonical.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
+162. **kattis-exactchange2**: coin change, Difficulty 3.8, *[DP]*, <a  href="AC/kattis-exactchange2.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
