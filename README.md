@@ -339,6 +339,8 @@ Use ``` Ctrl + F ``` to search for questions, keywords or tags.
 
 163. **kattis-nikola**: Difficulty 3.7, *[DP]*, <a  href="AC/kattis-nikola.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
+164. **kattis-spiderman**: Difficulty 4.6, *[DP]*, <a  href="AC/kattis-spiderman.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
