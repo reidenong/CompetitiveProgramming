@@ -343,6 +343,8 @@ Use ``` Ctrl + F ``` to search for questions, keywords or tags.
 
 165. **kattis-ticketpricing**: Difficulty 4.6, *[DP]*, <a  href="AC/kattis-ticketpricing.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
+166. **kattis-kutevi**: Difficulty 2.6, *[DP]*, <a  href="AC/kattis-kutevi.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
