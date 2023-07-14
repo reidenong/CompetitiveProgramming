@@ -7,7 +7,8 @@ WIP!
 
 
 ### Generics
-- Fast I/O Templates  <a href="CPP/fast-template.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a> <a href="JAVA/io_reference.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
+- Fast I/O Templates  <a href="CPP/fast-template.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a> <a href="PY/fastio.py"><img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+ <a href="JAVA/io_reference.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
 - Bitwise Operations <a href="CPP/bitwise-reference.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
 ### Data Structures
