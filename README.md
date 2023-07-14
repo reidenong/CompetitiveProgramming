@@ -356,5 +356,6 @@ Use ``` Ctrl + F ``` to search for questions, keywords or tags.
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
  - **kattis-bread**: sorting question through operation abc --> cab (rotation of subsequence 3)
  - **kattis-magicsequence**: radix sort in custom base. will come back when more familiar with bitwise operations
+ - **kattis-longestcommonsubsequence**
 
 ### [~ back to top ~](#competitive-programming----)
