@@ -58,11 +58,11 @@ def main():
     u = UFDS(10)          
 
     # Functions
-    ufds.find(x)            # Returns parent set of x
-    ufds.union(x, y)        # Unifies set containing x and set containing y
-    ufds.isSameSet(x, y)    # Returns bool if x, y are in the same set
-    ufds.numdisjoint()      # Returns int, number of disjoint sets
-    ufds.size(x)            # Returns size of set of which x is parent
+    ufds.find(x)                     # Returns parent of x
+    ufds.union(parent, child)        # Unifies set containing x and set containing y
+    ufds.isSameSet(x, y)             # Returns bool if x, y are in the same set
+    ufds.numdisjoint()               # Returns int, number of disjoint sets
+    ufds.size(x)                     # Returns size of set of which x is parent
 
 
 main()
