@@ -349,6 +349,8 @@ Use ``` Ctrl + F ``` to search for questions, keywords or tags.
 
 168. **kattis-walrusweights**: Difficulty 3.4, *[DP]*, <a  href="AC/kattis-walrusweights.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
+169. **kattis-unionfind**: UFDS, Difficulty 4.5, *[DS]*, <a  href="AC/kattis-unionfind.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
