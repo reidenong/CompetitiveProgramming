@@ -50,7 +50,7 @@ class UFDS:
         return self.sizes[self.find(x)]
 
     def isSameSet(self, x, y) :
-        returns self.find(x) == self.find(y)
+        return self.find(x) == self.find(y)
 
 
 def main():
