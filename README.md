@@ -11,6 +11,8 @@ A documentation of my journey in Competitive Programming.
 ## Problem Log (AC)
 Use ``` Ctrl + F ``` to search for questions, keywords or tags.
 
+Listed in reverse chronological order.
+
 > TAGS : [Ad-Hoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph]
 
 1.  **kattis-bela**: difficulty 1.4, *[Ad-Hoc]*, <a  href="AC/kattis-bela.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
