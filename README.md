@@ -2,9 +2,9 @@
 A documentation of my journey in Competitive Programming.
 
 ### • <a  href="LibraryCode"> 📚 Code Library</a>
-### <a  href="GeneralNotes">• 📘 General Notes</a>
-### [• ✅ Problem Log](#problem-log-ac)
-### [• 🚧 WIP Questions](#unsolved--wip-questions)
+### • <a  href="GeneralNotes"> 📘 General Notes</a>
+### • [ ✅ Problem Log](#problem-log-ac)
+### • [ 🚧 WIP Questions](#unsolved--wip-questions)
 
 
 
