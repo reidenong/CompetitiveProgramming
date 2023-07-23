@@ -1,10 +1,10 @@
 # Competitive Programming <br /> <img  src="https://img.shields.io/badge/C%2B%2B-11.3.0-purple"  height="17"  /> <img  src="https://img.shields.io/badge/Python-3.8.13-blue"  height="17"  /> <img  src="https://img.shields.io/badge/Java-11.0.19-orange"  height="17"  />
 A documentation of my journey in Competitive Programming.
 
-### <a  href="LibraryCode">• Code Library</a>
-### <a  href="GeneralNotes">• General Notes</a>
-### [• Problem Log](#problem-log-ac)
-### [• WIP Questions](#unsolved--wip-questions)
+### <a  href="📚 LibraryCode">• Code Library</a>
+### <a  href="📘 GeneralNotes">• General Notes</a>
+### [• ✅ Problem Log](#problem-log-ac)
+### [• 🚧 WIP Questions](#unsolved--wip-questions)
 
 
 
