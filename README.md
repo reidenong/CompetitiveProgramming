@@ -15,7 +15,9 @@ Listed in reverse chronological order.
 
 > TAGS : [Ad-Hoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph]
 
-1. **kattis-control**: UFDS, Difficulty 4.2, *[DS]*, <a  href="AC/kattis-control.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+1. **kattis-ladice**: UFDS, Difficulty 3.8, *[DS]*, <a  href="AC/kattis-ladice.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+
+2. **kattis-control**: UFDS, Difficulty 4.2, *[DS]*, <a  href="AC/kattis-control.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
 169. **kattis-unionfind**: UFDS, Difficulty 4.5, *[DS]*, <a  href="AC/kattis-unionfind.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a> <a  href="AC/kattis-unionfind.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
