@@ -55,7 +55,7 @@ class UFDS:
 
 def main():
     # Initialize ufds
-    u = UFDS(10)          
+    ufds = UFDS(10)          
 
     # Functions
     ufds.find(x)                     # Returns parent of x
