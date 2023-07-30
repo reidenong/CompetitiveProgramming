@@ -86,6 +86,8 @@ Listed in reverse chronological order.
 
 139. **kattis-airconditioned**: Interval Scheduling problem, Difficulty 3.4, *[Greedy]*, <a  href="AC/kattis-airconditioned.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
+ 54.  **kattis-color**: Difficulty 2.5, *[Greedy]*, <a  href="AC/kattis-color.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
+
 138. **kattis-shopaholic**: Difficulty 2.2, *[Greedy]*, <a  href="AC/kattis-shopaholic.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 137. **kattis-minimumscalar**: Difficulty 2.2, *[Greedy]*, <a  href="AC/kattis-minimumscalar.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
