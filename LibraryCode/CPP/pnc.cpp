@@ -24,6 +24,6 @@ ll nCk (int n, int k) {
 
 // N permutate K, O(N)
 ll nPk (int n, int k) {
-  return nCk(n, k) * factorial(k);
+    return nCk(n, k) * factorial(k);
 }
   
