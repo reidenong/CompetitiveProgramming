@@ -1,7 +1,7 @@
 # Library Code for Competitive Programming <br /> <img  src="https://img.shields.io/badge/C%2B%2B-11.3.0-purple"  height="17"  /> <img  src="https://img.shields.io/badge/Python-3.8.13-blue"  height="17"  /> <img  src="https://img.shields.io/badge/Java-11.0.19-orange"  height="17"  />
 Repository of algorithms / code snippets commonly used in CP, mostly in languages C++, Python and Java.
 
-The aim is to create a reliable, bug free library of code for saving time in CP contests, where said code is annotated with intuitive variable namings for ease of reworking.
+The aim is to create a reliable, bug free library of code for saving time in CP contests, where said code is implemented with intuitive variable namings for ease of reworking.
 
 WIP!
 
