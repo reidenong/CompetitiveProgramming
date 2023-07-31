@@ -9,7 +9,7 @@ kattis-moviecollection
   later on after watching them.
 
 - As we watch a movie, we find their position using the position array, and 
-  then we return the relavant RSQ. Following which, we update the FT with a -1
+  then we return the relevant RSQ. Following which, we update the FT with a -1
   such that there is a 0 where it used to be, and update the latest relevant placeholder
   with a 1, as well as the positional array to reflect its new position at the top
   of the stack.
