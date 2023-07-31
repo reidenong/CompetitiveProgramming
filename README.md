@@ -15,6 +15,8 @@ Listed in reverse chronological order.
 
 > TAGS : [Ad-Hoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph]
 
+1. **kattis-wheresmyinternet**: Difficulty 2.9, *[Graph]*, <a  href="AC/kattis-wheresmyinternet.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
 1. **kattis-supercomputer**: RSQ, fenwick, Difficulty 3.3, *[DS]*, <a  href="AC/kattis-supercomputer.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
 1. **kattis-moviecollection**: RSQ Fenwick Tree, Difficulty 4.8, *[DS]*, <a  href="AC/kattis-moviecollection.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
