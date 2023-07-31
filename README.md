@@ -15,6 +15,7 @@ Listed in reverse chronological order.
 
 > TAGS : [Ad-Hoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph]
 
+1. **kattis-moviecollection**: Fenwick Tree, Difficulty 4.8, *[DS]*, <a  href="AC/kattis-moviecollection.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
 1. **kattis-justforsidekicks**: Fenwick Tree, Difficulty 3.8, *[DS]*, <a  href="AC/kattis-justforsidekicks.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
