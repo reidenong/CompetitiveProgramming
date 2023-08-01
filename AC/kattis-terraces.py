@@ -18,8 +18,8 @@ kattis-terraces
   have been floodfilled by a invalid point. so we do flood fill on the remaining valid 
   land to get our answer
 
-Time: O(N^2)
-Space: O(N^2)
+Time: O(RC)
+Space: O(RC)
 '''
 import sys
 sys.setrecursionlimit(10000000)
