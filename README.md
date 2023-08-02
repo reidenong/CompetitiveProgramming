@@ -15,6 +15,8 @@ Listed in reverse chronological order.
 
 > TAGS : [Ad-Hoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph]
 
+1. **kattis-countingstars**: Flood Fill, Difficulty 3.0, *[Graph]*, <a  href="AC/kattis-countingstars.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
 1. **kattis-amoebas**: Flood Fill, Difficulty 2.0, *[Graph]*, <a  href="AC/kattis-amoebas.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 1. **kattis-terraces**: Flood Fill, Difficulty 3.6, *[Graph]*, <a  href="AC/kattis-terraces.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
