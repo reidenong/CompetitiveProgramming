@@ -15,6 +15,8 @@ Listed in reverse chronological order.
 
 > TAGS : [Ad-Hoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph]
 
+1. **kattis-islands3**: Difficulty 1.8, *[Graph]*, <a  href="AC/kattis-islands3.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+
 1. **kattis-coast**: Flood Fill, Difficulty 3.6, *[Graph]*, <a  href="AC/kattis-coast.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
 1. **kattis-10kindsofpeople**: Flood Fill with Memoization, Difficulty 5.3, *[Graph]*, <a  href="AC/kattis-10kindsofpeople.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
