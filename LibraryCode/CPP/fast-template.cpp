@@ -5,6 +5,21 @@
 using namespace std;
 #define fast_cin() ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL);
 
+// When receiving a line of space separated string inputs of unknown lengths
+// ie. "america brunei cameroon denmark"
+int stringInput () {
+    string s, line;
+    getline(cin, line);
+    vector<string> v;
+    istringstream ss(line);
+    while (ss >> s) v.emplace_back(s);
+
+    // print str for debugging
+    for (auto str : v) {
+        cout << str << " ";
+    }
+}
+
 int main(){
     fast_cin();
 
