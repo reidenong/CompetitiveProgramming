@@ -23,6 +23,10 @@ WIP!
 - 0/1 Knapsack (with backtrack) <a href="CPP/knapsack.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a> <a href="PY/lru_knapsack.py"><img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 - Coin Change <a href="CPP/coinchange.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a> <a href="PY/coinchange.py"><img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
+### Graph Theory
+ - Graph Traversal
+ - Topological Sort (DFS / Kahn's Algorithm) <a href="CPP/toposort.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+
 ### Discrete Mathematics
 - PnC <a href="CPP/pnc.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 - Fast exponentiation
