@@ -15,7 +15,7 @@ Listed in reverse chronological order.
 
 > TAGS : [Ad-Hoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph]
 
-1. **kattis-runningmom**: DFS cyclecheck with memoization, Difficulty 3.6, *[Graph]*, <a  href="AC/kattis-runningmom.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+1. **kattis-runningmom**: DFS cyclecheck with memoization, Difficulty 3.6, *[Graph][DP]*, <a  href="AC/kattis-runningmom.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 1. **kattis-conservation**: Modified Kahn's Algorithm, Difficulty 4.8, *[Graph]*, <a  href="AC/kattis-conservation.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
