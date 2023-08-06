@@ -15,6 +15,8 @@ Listed in reverse chronological order.
 
 > TAGS : [Ad-Hoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph]
 
+1. **kattis-hoppers**: DFS bipartite check, DFS CCs, Difficulty 3.9, *[Graph]*, <a  href="AC/kattis-hoppers.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+
 1. **kattis-pickupsticks**: DFS cyclecheck, DFS toposort, Difficulty 4.8, *[Graph]*, <a  href="AC/kattis-pickupsticks.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
 1. **kattis-runningmom**: DFS cyclecheck with memoization, Difficulty 3.6, *[Graph][DP]*, <a  href="AC/kattis-runningmom.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
