@@ -1,7 +1,7 @@
 /*
 Bipartite Checks / Cycle Checks
 
-Attached bellow is some sample code that does basic bipartite checking / color checking using DFS on
+Attached below is some sample code that does basic bipartite checking / color checking using DFS on
 an adjList. Any competitive programming question will probably need a modified version, but this snippet 
 may come in useful to those new to either algorithms.
 
