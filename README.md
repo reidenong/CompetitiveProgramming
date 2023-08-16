@@ -15,6 +15,8 @@ Listed in reverse chronological order.
 
 > TAGS : [Ad-Hoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph]
 
+1. **kattis-cantinaofbabel**: SCC, Kosaraju, Difficulty 3.0, *[Graph]*, <a  href="AC/kattis-cantinaofbabel.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
 1. **kattis-caveexploration**: Bridges DFS, Difficulty 3.6, *[Graph]*, <a  href="AC/kattis-caveexploration.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
 1. **kattis-birthday**: Articulation points and Bridges DFS, Difficulty 3.1, *[Graph]*, <a  href="AC/kattis-birthday.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
