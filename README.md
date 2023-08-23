@@ -15,6 +15,8 @@ Listed in reverse chronological order.
 
 > TAGS : [Ad-Hoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph]
 
+1. **kattis-faultyrobot**: Difficulty 4.1, *[Graph]*, <a  href="AC/kattis-faultyrobot.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+
 1. **kattis-equivalences**: SCCs, Kosaraju's Algorithm, Difficulty 6.4, *[Graph]*, <a  href="AC/kattis-equivalences.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
 1. **kattis-dominos**: SCCs, Kosaraju's Algorithm, Difficulty 4.0, *[Graph]*, <a  href="AC/kattis-dominos.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
