@@ -13,7 +13,7 @@ Use ``` Ctrl + F ``` to search for questions, keywords or tags.
 
 Listed in reverse chronological order.
 
-> TAGS : [Ad-Hoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph]
+> TAGS : [Ad-Hoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
 1. **kattis-faultyrobot**: Difficulty 4.1, *[Graph]*, <a  href="AC/kattis-faultyrobot.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
@@ -373,6 +373,8 @@ Listed in reverse chronological order.
  23.  **kattis-froggie**: difficulty 6.1, *[Ad-Hoc]*, <a  href="AC/kattis-froggie.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
  22.  **kattis-skener**: difficulty 1.6, *[Ad-Hoc]*, <a  href="AC/kattis-skener.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+
+ 21.  **kattis-nsum**: Difficulty 1.3, *[FP]*, <a  href="AC/kattis-nsum.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
 
  21.  **kattis-timebomb**: difficulty 1.8, *[Ad-Hoc]*, <a  href="AC/kattis-timebomb.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
