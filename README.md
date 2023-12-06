@@ -15,7 +15,7 @@ Listed in reverse chronological order.
 
 > TAGS : [Ad-Hoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
-1.  **kattis-metronome**: Difficulty 1.2, *[DS]*, <a  href="AC/kattis-metronome.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
+1.  **kattis-metronome**: Difficulty 1.2, *[AdHoc]*, <a  href="AC/kattis-metronome.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
 
 1. **kattis-faultyrobot**: Difficulty 4.1, *[Graph]*, <a  href="AC/kattis-faultyrobot.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
