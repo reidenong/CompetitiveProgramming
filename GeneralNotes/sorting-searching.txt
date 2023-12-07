@@ -72,4 +72,5 @@ Searching Algorithms
 2. Binary Search O(log n)
 3. Hashing O(1)
 ---> Used when fast access to known values is required but ordering of values not important
+---> O(1), but is a expensive O(1)
 
