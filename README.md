@@ -15,6 +15,8 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
+1.  **kattis-internationaldates**: Difficulty 1.3, *[AdHoc]*, <a  href="AC/kattis-internationaldates.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
+
 1.  **kattis-addingtrouble**: Difficulty 1.3, *[AdHoc]*, <a  href="AC/kattis-addingtrouble.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
 
 1.  **kattis-codetosavelives**: Java String to charStream, Difficulty 1.7, *[FP]*, <a  href="AC/kattis-codetosavelives.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
