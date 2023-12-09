@@ -15,6 +15,8 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
+1.  **kattis-babypanda**: Difficulty 2.3, *[AdHoc]*, <a  href="AC/kattis-babypanda.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
+
 1.  **kattis-coffeecupcombo**: Difficulty 1.7, *[AdHoc]*, <a  href="AC/kattis-coffeecupcombo.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
 
 1.  **kattis-sifferprodukt**: Difficulty 1.6, *[AdHoc]*, <a  href="AC/kattis-sifferprodukt.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
