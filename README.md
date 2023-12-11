@@ -15,6 +15,8 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
+1.  **kattis-erase**: Difficulty 1.7, *[AdHoc]*, <a  href="AC/kattis-erase.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
+
 1.  **kattis-rankproblem**: Difficulty 2.8, *[AdHoc]*, <a  href="AC/kattis-rankproblem.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
 
 1.  **kattis-falcondive**: Difficulty 3.6, *[AdHoc]*, <a  href="AC/kattis-falcondive.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
