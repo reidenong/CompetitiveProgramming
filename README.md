@@ -25,7 +25,7 @@ Listed in reverse chronological order.
 
 1.  **kattis-coffeecupcombo**: Difficulty 1.7, *[AdHoc]*, <a  href="AC/kattis-coffeecupcombo.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
 
-1.  **kattis-sifferprodukt**: Java string to charStream, Difficulty 1.6, *[AdHoc]*, <a  href="AC/kattis-sifferprodukt.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
+1.  **kattis-sifferprodukt**: Difficulty 1.6, *[AdHoc]*, <a  href="AC/kattis-sifferprodukt.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
 
 1.  **kattis-electionparadox**: Difficulty 1.9, *[AdHoc]*, <a  href="AC/kattis-electionparadox.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
 
@@ -35,7 +35,7 @@ Listed in reverse chronological order.
 
 1.  **kattis-addingtrouble**: Difficulty 1.3, *[AdHoc]*, <a  href="AC/kattis-addingtrouble.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
 
-1.  **kattis-codetosavelives**: Difficulty 1.7, *[FP]*, <a  href="AC/kattis-codetosavelives.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
+1.  **kattis-codetosavelives**: Java String to char Stream, Difficulty 1.7, *[FP]*, <a  href="AC/kattis-codetosavelives.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
 
 1.  **kattis-metronome**: Difficulty 1.2, *[AdHoc]*, <a  href="AC/kattis-metronome.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
 
