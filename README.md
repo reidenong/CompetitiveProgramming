@@ -15,6 +15,8 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
+1. **kattis-ultraquicksort**: Difficulty 5.2, *[Sorting][AdHoc]*, <a  href="AC/kattis-ultraquicksort.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
 1. **kattis-sort**: Difficulty 2.8, *[Sorting][AdHoc]*, <a  href="AC/kattis-sort.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 1. **kattis-includescoring**: Difficulty 5.7, *[Sorting][AdHoc]*, <a  href="AC/kattis-includescoring.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
