@@ -15,6 +15,8 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
+1.  **kattis-longswaps**: Difficulty 3.7, *[Sorting][AdHoc]*, <a  href="AC/kattis-longswaps.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
+
 1.  **kattis-chartingprogress**: Difficulty 1.7, *[AdHoc]*, <a  href="AC/kattis-chartingprogress.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
 
 1.  **kattis-froshweek**: MergeSort in Java, Difficulty 4.4, *[AdHoc][Sorting]*, <a  href="AC/kattis-froshweek.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
