@@ -12,7 +12,7 @@ WIP!
 - Bitwise Operations <a href="CPP/bitwise-reference.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
 ### Sorting Algorithms
-- Merge Sort O(N log N)  <a href="PY/mergesort.py"><img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a><a href="JAVA/MergeSort.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
+- Merge Sort O(N log N)  <a href="PY/mergesort.py"><img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a> <a href="JAVA/MergeSort.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
 
 ### Data Structures
 - Vector/ArrLis reference <a href="CPP/vector-tuple-sort.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a> <a href="JAVA/basic_ds_reference.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
