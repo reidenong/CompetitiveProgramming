@@ -15,6 +15,8 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
+1.  **kattis-reversebinary**: Difficulty 1.4, *[AdHoc]*, <a  href="AC/kattis-reversebinary.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
+
 1. **kattis-generalizedrecursivefunctions**: Difficulty 4.6, *[AdHoc]*, <a  href="AC/kattis-generalizedrecursivefunctions.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 1. **kattis-threepowers**: Difficulty 2.4, *[AdHoc]*, <a  href="AC/kattis-threepowers.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
