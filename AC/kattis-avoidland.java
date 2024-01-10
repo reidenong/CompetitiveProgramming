@@ -47,17 +47,9 @@ public class avoidland {
         long moves = 0;
         int carryRow = 0, carryCol = 0;
         for (int i = 0; i < N; i++) {
-            if (row[i] == 0) {
-                carryRow--;
-            } else if (row[i] > 1) {
-                carryRow += row[i] - 1;
-            }
-
-            if (col[i] == 0) {
-                carryCol--;
-            } else if (col[i] > 1) {
-                carryCol += col[i] - 1;
-            }
+            carryRow += row[i] - 1;
+            carryCol += col[i] - 1;
+            
             moves += Math.abs(carryRow) + Math.abs(carryCol);
         }
 
