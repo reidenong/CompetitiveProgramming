@@ -15,6 +15,8 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
+1. **kattis-janeeyre**: Difficulty 2.9, *[DS]*, <a  href="AC/kattis-janeeyre.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
 1. **kattis-hypercube**: Difficulty 3.7, *[AdHoc][BitOp]*, <a  href="AC/kattis-hypercube.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 1.  **kattis-bard**: Difficulty 2.9, *[DS]*, <a  href="AC/kattis-bard.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
