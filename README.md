@@ -15,6 +15,8 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
+1. **kattis-fairdivision**: Difficulty 3.6, *[Greedy]*, <a  href="AC/kattis-fairdivision.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
 1. **kattis-ceremony**: Difficulty 3.6, *[Greedy]*, <a  href="AC/kattis-ceremony.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 1. **kattis-messages**: Difficulty 5.0, *[Greedy]*, <a  href="AC/kattis-messages.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
