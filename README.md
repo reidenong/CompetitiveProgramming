@@ -15,9 +15,11 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
+1. **kattis-weightofwords**: Difficulty 2.9, *[Ad-Hoc]*, <a  href="AC/kattis-weightofwords.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
 1. **kattis-keyboardconcert**: Difficulty 3.4, *[DP]*, <a  href="AC/kattis-keyboardconcert.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
-1. **kattis-haybales**: Difficulty 5.8, *[Greedy]*, <a  href="AC/kattis-haybales.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+1. **kattis-haybales**: Shortest code, Difficulty 5.8, *[Greedy]*, <a  href="AC/kattis-haybales.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 1. **kattis-driver**: Difficulty 4.0, *[Greedy]*, <a  href="AC/kattis-driver.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
