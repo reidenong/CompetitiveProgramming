@@ -15,6 +15,8 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
+1. **kattis-islandhopping**: MSTs with Kruskal, Difficulty 2.9, *[Graph]*, <a  href="AC/kattis-islandhopping.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+
 1. **kattis-permutationdescent**: Difficulty 2.1, *[Recursion][DP]*, <a  href="AC/kattis-permutationdescent.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 1. **kattis-weightofwords**: Difficulty 2.9, *[Ad-Hoc]*, <a  href="AC/kattis-weightofwords.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
