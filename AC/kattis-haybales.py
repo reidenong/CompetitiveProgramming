@@ -13,17 +13,16 @@ kattis-haybales
 - Thus we greedily pick the highest moving value moves to be done first, then if left with no choice
   we may do moves with a value of 1.
 
-- Shortened code as i was competing for the shortest possible code. Code here is 257 chars, but 
-  winner has 205. lmk if u figure a way to shorten it further.
+- Shortest code among all kattis users (192 chars)
 
 Time: O(N * number_of_moves) (?)
 Mem: O(1)
 '''
-h=input();f=''.join(sorted(h));m=0
-while h!=f:
-    if 'PCC' in h:h=h.replace('PCC','CCP',1)
-    elif 'PPC' in h:h=h.replace('PPC','CPP',1)
-    elif 'CPC' in h:h=h.replace('CPC','CCP',1)
-    elif 'PCP' in h:h=h.replace('PCP','PPC',1)
+h=input();m=0
+while h!=''.join(sorted(h)):
+    for x in ['PCC','PPC','CPC','PCP']:
+        if x in h:
+            h=h.replace(x,''.join(sorted(x)),1)
+            break
     m+=1
 print(m)
