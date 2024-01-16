@@ -15,6 +15,8 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
+1. **kattis-minspantree**: Difficulty 4.5, *[Graph]*, <a  href="AC/kattis-minspantree.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+
 1. **kattis-lostmap**: Difficulty 2.0, *[Graph]*, <a  href="AC/kattis-lostmap.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
 1. **kattis-cats**: Difficulty 4.1, *[Graph]*, <a  href="AC/kattis-cats.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
