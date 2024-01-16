@@ -11,7 +11,7 @@ Mem: O(E)
 */
 #include <bits/stdc++.h>
 using namespace std;
-vector<tuple<float, int, int>> edges;
+vector<tuple<float, int, int>> edges;      // Use <iii> if relevant
 
 // UFDS Library code
 class UnionFind {
@@ -57,7 +57,7 @@ int main() {
     // Kruskal's Algorithm
     sort(edges.begin(), edges.end());       // Sort edges by increasing weight
 
-    float mst_cost = 0;
+    float mst_cost = 0;                     // Use int / ll if necessary
     int edges_taken = 0;
     UnionFind UF(N);
     for (auto &[w, u, v] : edges) {
