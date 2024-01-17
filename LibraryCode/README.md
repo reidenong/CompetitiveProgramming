@@ -16,7 +16,7 @@ WIP!
 
 ### Data Structures
 - Vector/ArrLis reference <a href="CPP/vector-tuple-sort.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a> <a href="JAVA/basic_ds_reference.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
-- UFDS <a href="CPP/ufds.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a> <a href="PY/ufds.py"><img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+- UFDS <a href="CPP/ufds.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a> <a href="PY/ufds.py"><img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a> <a href="JAVA/ufds.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
 - Fenwick Tree, RUPQ, RURQ <a href="CPP/fenwicktree.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 - Array Rotation  <a href="PY/arrayrotation.py"><img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
