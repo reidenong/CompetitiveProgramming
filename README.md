@@ -15,6 +15,8 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
+1. **kattis-buttonbashing**: Difficulty 3.5, *[Graph][DP]*, <a  href="AC/kattis-buttonbashing.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
 1.  **kattis-chatter**: Java UFDS, Difficulty 4.3, *[DS]*, <a  href="AC/kattis-chatter.java"><img  src="https://img.shields.io/badge/java-orange"  height="17"  /></a>
 
 1. **kattis-minspantree**: Difficulty 4.5, *[Graph]*, <a  href="AC/kattis-minspantree.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
