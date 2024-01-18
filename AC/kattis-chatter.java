@@ -10,7 +10,8 @@
  * 
  *  - Instead, we use a Map to store the frequency of each group size. This way, we can easily update the frequency
  *    of each group size when we merge two groups together, as when we merge 2 groups together we can query the size of
- *    each constituent group before merging.
+ *    each constituent group before merging. O(1) insertions and deletions are fast enough given the large number of 
+ *    updates
  * 
  * Time: O(N log N)
  * Mem: O(N)
