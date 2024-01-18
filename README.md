@@ -4,6 +4,7 @@ A documentation of my journey in Competitive Programming.
 ### • <a  href="LibraryCode"> 📚 Code Library</a>
 ### • <a  href="GeneralNotes"> 📘 General Notes</a>
 ### • [ ✅ Problem Log](#problem-log-ac)
+### • [ 🏅 Contest Log](#contest-log)
 ### • [ 🚧 WIP Questions](#unsolved--wip-questions)
 
 
@@ -506,6 +507,8 @@ Listed in reverse chronological order.
 
 1.  **kattis-bela**: difficulty 1.4, *[AdHoc]*, <a  href="AC/kattis-bela.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
+## Contest Log
+1. **CodeForces 1922 Div2**: 2/6 <a  href="https://codeforces.com/contest/1922/"><img  src="https://img.shields.io/badge/CodeForces-yellow"  height="17"  /></a>
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
