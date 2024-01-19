@@ -518,6 +518,8 @@ Listed in reverse chronological order.
 1.  **kattis-bela**: difficulty 1.4, *[AdHoc]*, <a  href="AC/kattis-bela.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
 ## Contest Log
+1. **CodeForces 1920 Div2** <a href="https://codeforces.com/contest/1920/"><img  src="https://img.shields.io/badge/CodeForces-yellow"  height="17"  /></a>
+
 1. **CodeForces 1922 Div2** <a href="https://codeforces.com/contest/1922/"><img  src="https://img.shields.io/badge/CodeForces-yellow"  height="17"  /></a>
 
 ## Unsolved / WIP Questions
