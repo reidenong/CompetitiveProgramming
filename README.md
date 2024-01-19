@@ -16,6 +16,8 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
+1. **codeforces-1922C**: Div2, *[Greedy]*, <a  href="AC/codeforces-1922C.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
 1. **codeforces-1922B**: Div2, *[AdHoc]*, <a  href="AC/codeforces-1922B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 1. **codeforces-1922A**: Div2, *[AdHoc]*, <a  href="AC/codeforces-1922A.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
