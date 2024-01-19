@@ -16,11 +16,15 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
-1. **codeforces-1922C**: Div2, *[Greedy]*, <a  href="AC/codeforces-1922C.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+1. **codeforces-1920B**: Difiiculty: 1100, *[Greedy]*, <a  href="AC/codeforces-1920B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
-1. **codeforces-1922B**: Div2, *[AdHoc]*, <a  href="AC/codeforces-1922B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+1. **codeforces-1920A**: Difficulty: 800, *[AdHoc]*, <a  href="AC/codeforces-1920A.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
-1. **codeforces-1922A**: Div2, *[AdHoc]*, <a  href="AC/codeforces-1922A.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+1. **codeforces-1922C**: Difficulty: 1300, *[Greedy]*, <a  href="AC/codeforces-1922C.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
+1. **codeforces-1922B**: Difficulty: 1200, *[AdHoc]*, <a  href="AC/codeforces-1922B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
+1. **codeforces-1922A**: Difficulty: 800, *[AdHoc]*, <a  href="AC/codeforces-1922A.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 1. **kattis-buttonbashing**: Difficulty 3.5, *[Graph][DP]*, <a  href="AC/kattis-buttonbashing.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
