@@ -16,6 +16,10 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
+1. **codeforces-1917B**: Difiiculty: 1100, *[AdHoc]*, <a  href="AC/codeforces-1917B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
+1. **codeforces-1917A**: Difiiculty: 800, *[AdHoc]*, <a  href="AC/codeforces-1917A.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
 1. **codeforces-1920D**: Difficulty: 1800, *[DS]*, <a  href="AC/codeforces-1920D.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
 1. **codeforces-1920C**: Difficulty: 1500, *[Math]*, <a  href="AC/codeforces-1920C.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
@@ -526,9 +530,11 @@ Listed in reverse chronological order.
 1.  **kattis-bela**: difficulty 1.4, *[AdHoc]*, <a  href="AC/kattis-bela.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
 ## Contest Log
-1. **CodeForces 1920 Div2** <a href="https://codeforces.com/contest/1920/"><img  src="https://img.shields.io/badge/CodeForces-yellow"  height="17"  /></a>
+1. **CodeForces 1917 Div2** [V] <a href="https://codeforces.com/contest/1917/"><img  src="https://img.shields.io/badge/CodeForces-yellow"  height="17"  /></a>
 
-1. **CodeForces 1922 Div2** <a href="https://codeforces.com/contest/1922/"><img  src="https://img.shields.io/badge/CodeForces-yellow"  height="17"  /></a>
+1. **CodeForces 1920 Div2** [V] <a href="https://codeforces.com/contest/1920/"><img  src="https://img.shields.io/badge/CodeForces-yellow"  height="17"  /></a>
+
+1. **CodeForces 1922 Div2** [R] <a href="https://codeforces.com/contest/1922/"><img  src="https://img.shields.io/badge/CodeForces-yellow"  height="17"  /></a>
 
 ## Unsolved / WIP Questions
  - **kattis-windows**: window simulation, trick is to simulate wrt window and not space
