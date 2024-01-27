@@ -16,6 +16,10 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
+1. **codeforces-1925B**: Difiiculty: ?, *[AdHoc]*, <a  href="AC/codeforces-1925B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
+1. **codeforces-1925A**: Difiiculty: ?, *[Math]*, <a  href="AC/codeforces-1925B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
 1. **codeforces-1917B**: Difiiculty: 1100, *[AdHoc]*, <a  href="AC/codeforces-1917B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 1. **codeforces-1917A**: Difiiculty: 800, *[AdHoc]*, <a  href="AC/codeforces-1917A.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
@@ -532,6 +536,8 @@ Listed in reverse chronological order.
 ## Contest Log
 
 > Tags: [Virtual], [Rated]
+
+1. **CodeForces 1925 Div2** [R] <a href="https://codeforces.com/contest/1925/"><img  src="https://img.shields.io/badge/CodeForces-yellow"  height="17"  /></a>
 
 1. **CodeForces 1917 Div2** [V] <a href="https://codeforces.com/contest/1917/"><img  src="https://img.shields.io/badge/CodeForces-yellow"  height="17"  /></a>
 
