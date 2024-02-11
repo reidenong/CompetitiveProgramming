@@ -545,6 +545,8 @@ Listed in reverse chronological order.
 
 > Tags: [Virtual], [Rated]
 
+1. **CodeForces 1928 Div2** [R] <a href="https://codeforces.com/contest/1928/"><img  src="https://img.shields.io/badge/CodeForces-yellow"  height="17"  /></a>
+
 1. **CodeForces 1925 Div2** [R] <a href="https://codeforces.com/contest/1925/"><img  src="https://img.shields.io/badge/CodeForces-yellow"  height="17"  /></a>
 
 1. **CodeForces 1917 Div2** [V] <a href="https://codeforces.com/contest/1917/"><img  src="https://img.shields.io/badge/CodeForces-yellow"  height="17"  /></a>
