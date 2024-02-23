@@ -8,13 +8,16 @@ A documentation of my journey in Competitive Programming.
 ### • [ 🚧 WIP Questions](#unsolved--wip-questions)
 
 
-
 ## Problem Log (AC)
 Use ``` Ctrl + F ``` to search for questions, keywords or tags.
 
 Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
+
+1. **codeforces-1923B**: Difiiculty: ?, *[Greedy]*, <a  href="AC/codeforces-1923B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
+1. **codeforces-1923A**: Difiiculty: ?, *[AdHoc]*, <a  href="AC/codeforces-1923A.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 1. **codeforces-1928B**: Difiiculty: ?, *[AdHoc]*, <a  href="AC/codeforces-1928B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
