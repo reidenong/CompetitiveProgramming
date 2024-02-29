@@ -15,6 +15,10 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
+1. **codeforces-1937B**: Difiiculty: ?, *[AdHoc]*, <a  href="AC/codeforces-1937B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
+1. **codeforces-1937A**: Difiiculty: ?, *[AdHoc]*, <a  href="AC/codeforces-1937A.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
 1. **codeforces-1933E**: Difficulty: ?, *[AdHoc]*, <a  href="AC/codeforces-1933E.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
 1. **codeforces-1933D**: Difficulty: ?, *[AdHoc]*, <a  href="AC/codeforces-1933D.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
@@ -559,6 +563,8 @@ Listed in reverse chronological order.
 ## Contest Log
 
 > Tags: [Virtual], [Rated]
+
+1. **CodeForces 1937 Div2** [R] <a href="https://codeforces.com/contest/1937/"><img  src="https://img.shields.io/badge/CodeForces-yellow"  height="17"  /></a>
 
 1. **CodeForces 1933 Div3** [R] <a href="https://codeforces.com/contest/1933/"><img  src="https://img.shields.io/badge/CodeForces-yellow"  height="17"  /></a>
 
