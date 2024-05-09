@@ -15,6 +15,8 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
+1. **kattis-horror**: Difficulty 2.9, *[Graph]*, <a  href="AC/kattis-horror.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
 1. **kattis-grid**: Difficulty 2.7, *[Graph]*, <a  href="AC/kattis-grid.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 1. **codeforces-1944B**: Difficulty: ?, *[AdHoc]*, <a  href="AC/codeforces-1944B.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
