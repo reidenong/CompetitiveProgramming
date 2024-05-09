@@ -15,6 +15,8 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
+1. **kattis-fire2**: Difficulty 4.6, *[Graph]*, <a  href="AC/kattis-fire2.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
 1. **kattis-lost**: Difficulty 4.8, *[Graph]*, <a  href="AC/kattis-lost.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 1. **kattis-horror**: Difficulty 2.9, *[Graph]*, <a  href="AC/kattis-horror.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
