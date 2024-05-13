@@ -15,6 +15,8 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
+1. **kattis-grasshopper**: Difficulty 3.7, *[Graph]*, <a  href="AC/kattis-grasshopper.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
 1. **kattis-oceancurrents**: 0-1 BFS, Difficulty 5.4, *[Graph]*, <a  href="AC/kattis-oceancurrents.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
 1. **kattis-mallmania**: Multi-Source BFS, Difficulty 4.9, *[Graph]*, <a  href="AC/kattis-mallmania.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
