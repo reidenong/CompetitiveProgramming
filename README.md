@@ -15,6 +15,12 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
+1. **codeforces-1974C**: Difiiculty: ?, *[AdHoc]*, <a  href="AC/codeforces-1974C.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
+1. **codeforces-1974B**: Difiiculty: ?, *[AdHoc]*, <a  href="AC/codeforces-1974B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
+1. **codeforces-1974A**: Difiiculty: ?, *[AdHoc]*, <a  href="AC/codeforces-1974A.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
 1. **kattis-grasshopper**: Knight Moves BFS, Difficulty 3.7, *[Graph]*, <a  href="AC/kattis-grasshopper.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 1. **kattis-oceancurrents**: 0-1 BFS, Difficulty 5.4, *[Graph]*, <a  href="AC/kattis-oceancurrents.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
