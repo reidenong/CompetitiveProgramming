@@ -58,12 +58,12 @@ int main() {
         if (w > est[u]) continue;
 
         for (auto [v, w] : adj[u]) {
-            if (est[u] + w < est[v]) {
+            if (est[u] + w < est[v]) {          // If we have new shorter path, destroy all predecessors so far
                 pred[v].clear();
                 pred[v].push_back({u, w});
                 est[v] = est[u] + w;
                 pq.push({est[v], v});
-            } else if (est[u] + w == est[v]) {
+            } else if (est[u] + w == est[v]) {  // We want to keep all alternative shortest paths, so just add on
                 pred[v].push_back({u, w});
             }
         }
