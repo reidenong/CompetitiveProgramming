@@ -15,6 +15,8 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
+1. **kattis-texassummers**: Difficulty: 4.1, *[Graph]*, <a  href="AC/kattis-texassummers.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+
 1. **kattis-shortestpath2**: SSSP Dijkstra, Difficulty: 3.7, *[Graph]*, <a  href="AC/kattis-shortestpath2.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
 1. **kattis-flowerytrails**: Dijkstra + Predecessor, Difficulty: 3.5, *[Graph]*, <a  href="AC/kattis-flowerytrails.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
