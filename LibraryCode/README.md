@@ -33,6 +33,8 @@ WIP!
  - Articulation Points and Bridges (DFS) <a href="CPP/apnb.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 - SCCs, Kosaraju's Algorithm <a href="CPP/kosaraju.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a> <a href="PY/kosaraju.py"><img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 - MSTs, Kruskal's Algorithm (with UFDS) <a href="CPP/kruskal.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+- SSSP Dijkstra <a href="CPP/dijkstra.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a> <a href="PY/dijkstra.py"><img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+- SSSP Bellman Ford <a href="CPP/bellman.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a> <a href="PY/bellman.py"><img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 ### Discrete Mathematics
 - PnC <a href="CPP/pnc.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
