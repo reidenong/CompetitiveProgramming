@@ -15,6 +15,8 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
+1. **kattis-xyzzy**: Bellman Ford, Difficulty: 6.2, *[Graph]*, <a  href="AC/kattis-xyzzy.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+
 1. **kattis-shortestpath3**: Bellman Ford, Difficulty: 4.3, *[Graph]*, <a  href="AC/kattis-hauntedgraveyard.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
 1. **kattis-hauntedgraveyard**: Grid Bellman Ford, Difficulty: 6.5, *[Graph]*, <a  href="AC/kattis-hauntedgraveyard.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
