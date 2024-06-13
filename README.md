@@ -352,7 +352,7 @@ Listed in reverse chronological order.
 
 128. **kattis-carefulascent**: PY BSTA, Difficulty 2.1, *[BinarySearch]*, <a  href="AC/kattis-carefulascent.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
-127. **kattis-roompainting**: Difficulty 3.7, *[BinarySearch]*, <a  href="AC/kattis-roompainting.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+127. **kattis-roompainting**: Difficulty 2.5, *[BinarySearch]*, <a  href="AC/kattis-roompainting.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
 126. **kattis-outofsorts**: PY Binary search, Difficulty 2.9, *[BinarySearch]*, <a  href="AC/kattis-outofsorts.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
