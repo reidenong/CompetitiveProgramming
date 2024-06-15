@@ -15,6 +15,8 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
+1. **kattis-importspaghetti**: APSP shortest cycle, Difiiculty: 5.4, *[Graph]*, <a  href="AC/kattis-importspaghetti.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
 1. **kattis-allpairspath**: APSP Floyd Warshall, Difficulty: 5.6, *[Graph]*, <a  href="AC/kattis-allpairspath.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
 1. **kattis-xyzzy**: Bellman Ford, Difficulty: 6.2, *[Graph]*, <a  href="AC/kattis-xyzzy.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
