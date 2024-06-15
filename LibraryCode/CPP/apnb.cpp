@@ -1,6 +1,9 @@
 /*
 Finding Articulation Points and Bridges
 (Undirected Graph)
+
+An articulation point is a vertex in a graph whose removal results in the graph being disconnected
+A Bridge is a edge ina graph whose removal results in disconnection.
 */
 #include <bits/stdc++.h>
 using namespace std;
