@@ -1,0 +1,45 @@
+Trees
+
+- No cycles
+- Connected
+- E = V-1
+- One unique path between any 2 vertices
+
+**Binary Tree Traversals**
+pre-order(v) :
+  visit(v)
+  pre-order(v.left)
+  pre-order(v.right)
+
+in-order(v) :
+  in-order(v.left)
+  visit(v)
+  in-order(v.right)
+
+post-order(v) :
+  post-order(v.left)
+  post-order(v.right)
+  visit(v)
+
+Finding Articulation Points / Bridges
+- Every vertex is a AP
+- Every edge is a bridege
+
+SSSP on weighted Tree
+- There is only one unique path between any 2 vertices
+- use BFS/DFS
+- O(V)
+
+APSP on weighted Tree
+- For general graph, we do O(V^3) Floyd warshall 
+- With tree, we can do O(V) SSSP on every vertice in graph
+- O(V^2)
+
+Diameter of weighted Tree
+- For general graph, we do O(V^3) Floyd warshall with O(V^2) all-pair check
+- WE need to do 2 tree traversals.
+- 1. from any vertex s to find the furthest vertex x
+  2. from vertex x to find furthest vertex y
+- dist(x, y) is then the diameter of the graph
+- O(V)
+
