@@ -15,6 +15,8 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
+1. **kattis-secretchamber**: APSP, Difiiculty: 2.5, *[Graph]*, <a  href="AC/kattis-secretchamber.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
 1. **kattis-kastenlauf**: APSP, Difiiculty: 3.0, *[Graph]*, <a  href="AC/kattis-kastenlauf.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 1. **kattis-arbitrage**: log APSP, Difiiculty: 3.9, *[Graph]*, <a  href="AC/kattis-arbitrage.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
