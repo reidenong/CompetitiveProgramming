@@ -15,17 +15,19 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
+1. **kattis-queens**: Difficulty: 2.5, *[AdHoc]*, <a  href="AC/kattis-queens.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
 1. **kattis-convoy**: Difficulty: 4.3, *[Greedy]*, <a  href="AC/kattis-convoy.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
-1. **kattis-secretchamber**: APSP, Difiiculty: 2.5, *[Graph]*, <a  href="AC/kattis-secretchamber.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+1. **kattis-secretchamber**: APSP, Difficulty: 2.5, *[Graph]*, <a  href="AC/kattis-secretchamber.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
-1. **kattis-kastenlauf**: APSP, Difiiculty: 3.0, *[Graph]*, <a  href="AC/kattis-kastenlauf.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+1. **kattis-kastenlauf**: APSP, Difficulty: 3.0, *[Graph]*, <a  href="AC/kattis-kastenlauf.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
-1. **kattis-arbitrage**: log APSP, Difiiculty: 3.9, *[Graph]*, <a  href="AC/kattis-arbitrage.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+1. **kattis-arbitrage**: log APSP, Difficulty: 3.9, *[Graph]*, <a  href="AC/kattis-arbitrage.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 1. **kattis-transportationplanning**: APSP Floyd Warshall, Difficulty: 4.5, *[Graph]*, <a  href="AC/kattis-transportationplanning.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
-1. **kattis-importspaghetti**: APSP shortest cycle, Difiiculty: 5.4, *[Graph]*, <a  href="AC/kattis-importspaghetti.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+1. **kattis-importspaghetti**: APSP shortest cycle, Difficulty: 5.4, *[Graph]*, <a  href="AC/kattis-importspaghetti.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 1. **kattis-allpairspath**: APSP Floyd Warshall, Difficulty: 5.6, *[Graph]*, <a  href="AC/kattis-allpairspath.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
@@ -55,11 +57,11 @@ Listed in reverse chronological order.
 
 1. **kattis-hidingplaces**: Difficulty: 1.7, *[Graph]*, <a  href="AC/kattis-hidingplaces.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
-1. **codeforces-1974C**: Difiiculty: ?, *[AdHoc]*, <a  href="AC/codeforces-1974C.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+1. **codeforces-1974C**: Difficulty: ?, *[AdHoc]*, <a  href="AC/codeforces-1974C.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
-1. **codeforces-1974B**: Difiiculty: ?, *[AdHoc]*, <a  href="AC/codeforces-1974B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+1. **codeforces-1974B**: Difficulty: ?, *[AdHoc]*, <a  href="AC/codeforces-1974B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
-1. **codeforces-1974A**: Difiiculty: ?, *[AdHoc]*, <a  href="AC/codeforces-1974A.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+1. **codeforces-1974A**: Difficulty: ?, *[AdHoc]*, <a  href="AC/codeforces-1974A.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 1. **kattis-grasshopper**: Knight Moves BFS, Difficulty 3.7, *[Graph]*, <a  href="AC/kattis-grasshopper.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
@@ -77,41 +79,41 @@ Listed in reverse chronological order.
 
 1. **codeforces-1944B**: Difficulty: ?, *[AdHoc]*, <a  href="AC/codeforces-1944B.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
-1. **codeforces-1937B**: Difiiculty: ?, *[AdHoc]*, <a  href="AC/codeforces-1937B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+1. **codeforces-1937B**: Difficulty: ?, *[AdHoc]*, <a  href="AC/codeforces-1937B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
-1. **codeforces-1937A**: Difiiculty: ?, *[AdHoc]*, <a  href="AC/codeforces-1937A.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+1. **codeforces-1937A**: Difficulty: ?, *[AdHoc]*, <a  href="AC/codeforces-1937A.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 1. **codeforces-1933E**: Difficulty: ?, *[AdHoc]*, <a  href="AC/codeforces-1933E.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
 1. **codeforces-1933D**: Difficulty: ?, *[AdHoc]*, <a  href="AC/codeforces-1933D.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
-1. **codeforces-1933C**: Difiiculty: ?, *[AdHoc]*, <a  href="AC/codeforces-1933C.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+1. **codeforces-1933C**: Difficulty: ?, *[AdHoc]*, <a  href="AC/codeforces-1933C.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
-1. **codeforces-1933B**: Difiiculty: ?, *[AdHoc]*, <a  href="AC/codeforces-1933B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+1. **codeforces-1933B**: Difficulty: ?, *[AdHoc]*, <a  href="AC/codeforces-1933B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
-1. **codeforces-1933A**: Difiiculty: 1200, *[AdHoc]*, <a  href="AC/codeforces-1933A.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+1. **codeforces-1933A**: Difficulty: 1200, *[AdHoc]*, <a  href="AC/codeforces-1933A.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 1. **codeforces-1923C**: Difficulty: ?, *[AdHoc]*, <a  href="AC/codeforces-1923C.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
-1. **codeforces-1923B**: Difiiculty: ?, *[Greedy]*, <a  href="AC/codeforces-1923B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+1. **codeforces-1923B**: Difficulty: ?, *[Greedy]*, <a  href="AC/codeforces-1923B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
-1. **codeforces-1923A**: Difiiculty: ?, *[AdHoc]*, <a  href="AC/codeforces-1923A.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+1. **codeforces-1923A**: Difficulty: ?, *[AdHoc]*, <a  href="AC/codeforces-1923A.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
-1. **codeforces-1928B**: Difiiculty: 1200, *[AdHoc]*, <a  href="AC/codeforces-1928B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+1. **codeforces-1928B**: Difficulty: 1200, *[AdHoc]*, <a  href="AC/codeforces-1928B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
-1. **codeforces-1928A**: Difiiculty: 800, *[AdHoc]*, <a  href="AC/codeforces-1928A.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+1. **codeforces-1928A**: Difficulty: 800, *[AdHoc]*, <a  href="AC/codeforces-1928A.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 1. **codeforces-1917C**: Difficulty: 1600, *[AdHoc]*, <a  href="AC/codeforces-1917C.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
 1. **codeforces-1925C**: Difficulty: 1500, *[AdHoc]*, <a  href="AC/codeforces-1925C.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
-1. **codeforces-1925B**: Difiiculty: 1200, *[AdHoc]*, <a  href="AC/codeforces-1925B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+1. **codeforces-1925B**: Difficulty: 1200, *[AdHoc]*, <a  href="AC/codeforces-1925B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
-1. **codeforces-1925A**: Difiiculty: 800, *[Math]*, <a  href="AC/codeforces-1925B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+1. **codeforces-1925A**: Difficulty: 800, *[Math]*, <a  href="AC/codeforces-1925B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
-1. **codeforces-1917B**: Difiiculty: 1100, *[AdHoc]*, <a  href="AC/codeforces-1917B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+1. **codeforces-1917B**: Difficulty: 1100, *[AdHoc]*, <a  href="AC/codeforces-1917B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
-1. **codeforces-1917A**: Difiiculty: 800, *[AdHoc]*, <a  href="AC/codeforces-1917A.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+1. **codeforces-1917A**: Difficulty: 800, *[AdHoc]*, <a  href="AC/codeforces-1917A.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 1. **codeforces-1920D**: Difficulty: 1800, *[DS]*, <a  href="AC/codeforces-1920D.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
@@ -121,7 +123,7 @@ Listed in reverse chronological order.
 
 1. **codeforces-1922D**: Difficulty: 1900, *[DS]*, <a  href="AC/codeforces-1922D.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
-1. **codeforces-1920B**: Difiiculty: 1100, *[Greedy]*, <a  href="AC/codeforces-1920B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+1. **codeforces-1920B**: Difficulty: 1100, *[Greedy]*, <a  href="AC/codeforces-1920B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 1. **codeforces-1920A**: Difficulty: 800, *[AdHoc]*, <a  href="AC/codeforces-1920A.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
