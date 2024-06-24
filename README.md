@@ -15,6 +15,10 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
+1. **codeforces-1978B**:  Difficulty: ?, *[AdHoc]*, <a  href="AC/codeforces-1978B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
+1. **codeforces-1978A**:  Difficulty: ?, *[AdHoc]*, <a  href="AC/codeforces-1978A.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
 1. **kattis-beepers**: TSP, Difficulty: 4.4, *[Graph][DP]*, <a  href="AC/kattis-beepers.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
 1. **kattis-bijele**:  Difficulty: 1.3, *[AdHoc]*, <a  href="AC/kattis-bijele.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
