@@ -25,6 +25,7 @@ WIP!
 - Longest Increasing Subsequence (with backtrack) <a href="CPP/LIS.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a> <a href="PY/LIS.py"><img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 - 0/1 Knapsack (with backtrack) <a href="CPP/knapsack.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a> <a href="PY/lru_knapsack.py"><img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 - Coin Change <a href="CPP/coinchange.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a> <a href="PY/coinchange.py"><img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+- Travelling Salesman Problem <a href="CPP/tsp.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a> <a href="PY/tsp.py"><img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 ### Graph Theory
  - Graph Traversal
