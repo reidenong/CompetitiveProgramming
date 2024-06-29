@@ -40,5 +40,6 @@ WIP!
 
 ### Discrete Mathematics
 - PnC <a href="CPP/pnc.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+- GCD, LCM <a href="CPP/numbertheory.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 - Fast exponentiation
 - Primes
