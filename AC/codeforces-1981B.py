@@ -25,6 +25,7 @@ Mem: O(1)
 def solve() :
 	N, M = map(int, input().split())
 
+	# trivial case, ans = N
 	if M == 0 :
 		print(N)
 		return
