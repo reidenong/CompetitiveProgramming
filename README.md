@@ -15,6 +15,8 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
+1. **codeforces-1981A**:  Difficulty: ?, *[AdHoc]*, <a  href="AC/codeforces-1981A.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
+
 1. **codeforces-1979C**:  Difficulty: ?, *[AdHoc]*, <a  href="AC/codeforces-1979C.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 
 1. **codeforces-1979B**:  Difficulty: ?, *[AdHoc]*, <a  href="AC/codeforces-1979B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
