@@ -20,6 +20,7 @@ to the left of its original.
 - when j > k, we are done.
 
 '''
+import random
 
 def swap(a, b) :
     arr[a], arr[b] = arr[b], arr[a]
