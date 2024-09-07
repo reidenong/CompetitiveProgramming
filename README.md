@@ -15,6 +15,8 @@ Listed in reverse chronological order.
 
 > TAGS : [AdHoc], [DS], [Recursion], [Math], [Greedy], [BinarySearch], [Sorting], [BitOp], [DP], [Graph], [FP]
 
+1. **kattis-stringmatching**: Rabin Karp, rolling hash, Difficulty: 3.4, *[DS]*, <a  href="AC/kattis-stringmatching.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+
 1. **codeforces-1981C**:  Difficulty: ?, *[AdHoc]*,<a  href="AC/codeforces-1981C.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 
 1. **codeforces-1981B**:  Difficulty: ?, *[AdHoc]*, <a  href="AC/codeforces-1981B.py">  <img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
