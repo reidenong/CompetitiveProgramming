@@ -92,7 +92,7 @@ class RollingHash {
     // Returns the hash of the substring s[l, r]
     int get_hash(int l, int r) {
         if (l == 0) return H[r];
-        int ans = ((H[r] - H[l - 1]) % M + M) % M;
+        int ans = mod(H[r] - H[l - 1], M);
         ans = ((ll) ans * P_inv[l]) % M;  // Ensure 'll' is used properly here
         return ans;
     }
