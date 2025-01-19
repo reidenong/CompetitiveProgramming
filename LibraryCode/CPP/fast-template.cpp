@@ -1,27 +1,29 @@
-#pragma GCC optimize("Ofast")
-#pragma GCC target("sse,sse2,sse3,ssse3,sse4,popcnt,abm,mmx,avx,avx2,fma")
-#pragma GCC optimize("unroll-loops")
 #include <bits/stdc++.h>
 using namespace std;
-#define fast_cin() ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL);
+using ll = long long;
+using ii = pair<int, int>;
+using lll = pair<ll, ll>;
+using vi = vector<int>;
+using vii = vector<ii>;
+using vvi = vector<vi>;
+using vll = vector<ll>;
+using vvll = vector<vll>;
+template<typename T>
+using min_heap = priority_queue<T, vector<T>, greater<T>>;
+#define pb push_back
+#define fi first
+#define se second
+#define _ <<" "<<
 
-// When receiving a line of space separated string inputs of unknown lengths
-// ie. "america brunei cameroon denmark"
-int stringInput () {
-    string s, line;
-    getline(cin, line);
-    vector<string> v;
-    istringstream ss(line);
-    while (ss >> s) v.emplace_back(s);
-
-    // print str for debugging
-    for (auto str : v) {
-        cout << str << " ";
-    }
+void solve() {
+    
 }
 
-int main(){
-    fast_cin();
-
+int main() {
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    int TC;
+    cin >> TC;
+    while (TC--) solve();
     return 0;
 }
