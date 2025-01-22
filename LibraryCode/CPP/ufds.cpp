@@ -6,13 +6,12 @@ Union Find Disjoint sets
 
 - code taken from cp-book github, here for easy reference
 
-Time: O(1) operations
+Time: ~O(1) operations
 Space: O(N) 
 */
 #include <bits/stdc++.h>
 using namespace std;
 
-// UFDS
 class UnionFind {
 private:
     vector<int> p, rank, setSize;
@@ -25,15 +24,15 @@ public:
         numSets = N;                                 // optional feature
     }
 
-    int findSet(int i) { return (p[i] == i) ? i : (p[i] = findSet(p[i])); }
-    bool isSameSet(int i, int j) { return findSet(i) == findSet(j); }
+    int find_set(int i) { return (p[i] == i) ? i : (p[i] = find_set(p[i])); }
+    bool is_same_set(int i, int j) { return find_set(i) == find_set(j); }
 
-    int numDisjointSets() { return numSets; }      // optional
-    int sizeOfSet(int i) { return setSize[findSet(i)]; } // optional
+    int num_disjoint() { return numSets; }      // optional
+    int size_of_set(int i) { return setSize[find_set(i)]; } // optional
 
-    void unionSet(int i, int j) {
-        if (isSameSet(i, j)) return;                 // i and j are in same set
-        int x = findSet(i), y = findSet(j);          // find both rep items
+    void union_set(int i, int j) {
+        if (is_same_set(i, j)) return;                 // i and j are in same set
+        int x = find_set(i), y = find_set(j);          // find both rep items
         if (rank[x] > rank[y]) swap(x, y);           // keep x 'shorter' than y
         p[x] = y;                                    // set x under y
         if (rank[x] == rank[y]) ++rank[y];           // optional speedup
@@ -42,17 +41,8 @@ public:
     }
 };
 
-int main() {
-    int N;
-
-    // Creating UFDS
-    UnionFind ufds (N);
-
-    // Functions
-    ufds.findSet(i);            // returns which set i belongs to
-    ufds.isSameSet(i, j);       // returns bool 0/1 if i, j are in same set
-    ufds.unionSet(i, j);        // combines set containing i and set containing j
-    ufds.numDisjointSets();     // returns int, number of disjoint sets
-    
-    return 0;
-}
+// UnionFind ufds (N);          // Create a UFDS with [0..N-1] items
+// ufds.find_set(i);            // returns which set i belongs to
+// ufds.is_same_set(i, j);      // returns bool 0/1 if i, j are in same set
+// ufds.union_set(i, j);        // combines set containing i and set containing j
+// ufds.num_disjoint();         // returns int, number of disjoint sets
