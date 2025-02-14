@@ -350,16 +350,20 @@
         ],
         "description": "Fenwick Tree"
     },
-    "Max Flow": {
+    "Maxflow": {
         "prefix": "mcmf",
         "body": [
             "typedef tuple<int, ll, ll> edge;",
             "const ll INF = 1e18;",
+            "/*",
+            "Dinic implementation of maxflow.",
+            "Time: O(min(mf, V^2)* E)",
+            "*/",
             "class max_flow {",
             "private:",
             "    int V;",
-            "    vector<edge> EL;",
-            "    vector<vi> AL;",
+            "    vector<edge> EL;            // EL[i] = {dest node, capacity, flow (+ means u -> dest)}",
+            "    vector<vi> AL;              // AL[u] = {EL indices of edges coming from u}",
             "    vi d, last;",
             "    vector<ii> p;",
             "",
@@ -419,12 +423,35 @@
             "        }",
             "        return mf;",
             "    }",
+            "",
+            "    vector<int> get_s_mincut(int s, int t) {",
+            "        dinic(s, t);",
+            "        vector<bool> visited(V, false);",
+            "        vector<int> s_component;",
+            "        queue<int> q;",
+            "        q.push(s);",
+            "        visited[s] = true;",
+            "        while (!q.empty()) {",
+            "            int u = q.front();",
+            "            q.pop();",
+            "            s_component.push_back(u);",
+            "            for (auto &idx : AL[u]) {",
+            "                auto &[v, cap, flow] = EL[idx];",
+            "                if ((cap - flow > 0) && (!visited[v])) {",
+            "                    visited[v] = true;",
+            "                    q.push(v);",
+            "                }",
+            "            }",
+            "        }",
+            "        return s_component;",
+            "    }",
             "};",
             "// max_flow mf(N);                  // Create maxflow object",
             "// mf.add_edge(u, v, w);            // Add a directed edge from u to v with capacity w",
             "// mf.add_edge(u, v, w, false)      // Add a undirected edge from u to v with capacity w",
-            "// ll ans = mf.dinic(src, sink);    // Get the maxflow"
+            "// ll ans = mf.dinic(src, sink);    // Get the maxflow",
+            ""
         ],
-        "description": "Max Flow"
+        "description": "Maxflow"
     }
 }
