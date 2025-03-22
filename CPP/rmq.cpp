@@ -2,6 +2,7 @@
  * Range Minimum Query (returns index)
  * 
  * Time: O(n log n) init, O(log n) per query
+ * Status: tested (https://judge.yosupo.jp/submission/275188)
  */
 class SparseTable {  // OOP style
    private:
