@@ -1,4 +1,4 @@
-# Competitive Programming <br /> <img  src="https://img.shields.io/badge/C%2B%2B-11.3.0-purple"  height="17"  /> <img  src="https://img.shields.io/badge/Python-3.8.13-blue"  height="17"  /> <img  src="https://img.shields.io/badge/Java-11.0.19-orange"  height="17" />
+# Competitive Programming Archives <br /> <img  src="https://img.shields.io/badge/C%2B%2B-11.3.0-purple"  height="17"  /> <img  src="https://img.shields.io/badge/Python-3.8.13-blue"  height="17"  /> <img  src="https://img.shields.io/badge/Java-11.0.19-orange"  height="17" />
  Archives of my past questions in Competitive Programming. Haven't recorded recent kattis or codeforces questions in awhile.
  
 ### • [ ✅ Problem Log](#problem-log-ac)
