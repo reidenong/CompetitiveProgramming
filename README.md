@@ -1,24 +1,40 @@
-# Competitive Programming <br /> <img  src="https://img.shields.io/badge/C%2B%2B-11.3.0-purple"  height="17"  /> <img  src="https://img.shields.io/badge/Python-3.8.13-blue"  height="17"  />
+# Competitive Programming <br /> <img  src="https://img.shields.io/badge/C%2B%2B-17-purple"  height="17"  /> <img  src="https://img.shields.io/badge/Python-3.8-blue"  height="17"  /> <img  src="https://img.shields.io/badge/Java-11-orange"  height="17" />
 Repository of algorithms / code snippets commonly used in CP, mostly in C++ and Python. Haven't done documentation of solved problems in awhile, but those can be found in Archives.
 
-The aim is to create a reliable, bug free library of code for saving time in CP contests.
+The aim is to create a reliable, bug free library of code for saving time in CP contests. Also includes reference code for some (simpler) algorithms.
 
 ### VSCode Snippets <a href="CPP/cp_cpp.code-snippets"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a> 
+Contains a collection of libraries formatted in VSCode snippets. Does not contain reference code.
 <!---
 <a href="PY/cp_py.code-snippets"><img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
 -->
 
 ### Sorting Algorithms
+- Merge Sort
+- Quicksort w DNF partitioning
 
 ### Data Structures
-
-### DP
+- Fenwick Tree  <a href="CPP/fenwick.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+- Lazy Segment Tree <a href="CPP/segment_tree.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+- Range Minimum Query <a href="CPP/rmq.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+- Disjoint Set Union
+- Ordered Set
 
 ### Graphs
+- Dijkstra
+- Articulation Points and Bridges
+- SCCs, Kosaraju
+- MSTs, Kruskal
+- Bellman Ford
+- Floyd Warshall
 
 ### Math
+- Combinatorics
+- Number theory
+- Tortoise hare cycle finding
 
 ### Strings
+- Rolling Hash
 
 ----------
 
