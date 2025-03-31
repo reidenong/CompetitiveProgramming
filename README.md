@@ -20,7 +20,7 @@ Contains a collection of libraries formatted in VSCode snippets. Does not contai
 - Fenwick Tree  <a href="CPP/fenwick.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 - Lazy Segment Tree <a href="CPP/segment_tree.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 - Range Minimum Query <a href="CPP/rmq.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
-- Disjoint Set Union
+- Disjoint Set Union <a href="CPP/ufds.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 - Ordered Set
 
 ### Graphs
