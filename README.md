@@ -24,7 +24,7 @@ Contains a collection of libraries formatted in VSCode snippets. Does not contai
 - Ordered Set
 
 ### Graphs
-- Dijkstra
+- Dijkstra <a href="CPP/dijkstra.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
 - Articulation Points and Bridges
 - SCCs, Kosaraju
 - MSTs, Kruskal
