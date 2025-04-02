@@ -28,7 +28,7 @@ typedef A<1000000007, A<1000000009, unsigned>> H;
 struct HashInterval {
 	vector<H> ha, pw;
 	HashInterval(string& str) : ha(sz(str) + 1), pw(ha) {
-		pw[0] = 1;
+	    pw[0] = 1;
         for (int i = 0; i < sz(str); i++)
 			ha[i+1] = ha[i] * C + str[i],
 			pw[i+1] = pw[i] * C;
