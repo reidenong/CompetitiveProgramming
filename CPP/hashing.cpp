@@ -3,7 +3,8 @@
  *
  * Time: O(n) for constructing HashInterval, get_hashes()
  *       O(1) for get_hash()
- * Test: kattis-longestcommonsubstring
+ * Test: kattis-longestcommonsubstring (get_hashes),
+ * 		 kattis-baza (HashInterval)
  * Source: KACTL
  */
 typedef uint64_t ull;
