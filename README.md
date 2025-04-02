@@ -3,7 +3,7 @@ Repository of algorithms / code snippets commonly used in CP, mostly in C++ and 
 
 The aim is to create a reliable, bug free library of code for saving time in CP contests. Also includes reference code for some (simpler) algorithms.
 
-### VSCode Snippets <a href="CPP/cp_cpp.code-snippets"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a> 
+### VSCode Snippets <a href="CPP/cpp.code-snippets"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a> 
 Contains a collection of libraries formatted in VSCode snippets. Does not contain reference code.
 <!---
 <a href="PY/cp_py.code-snippets"><img  src="https://img.shields.io/badge/python-blue"  height="17"  /></a>
