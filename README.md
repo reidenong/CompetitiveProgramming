@@ -39,6 +39,8 @@ Contains a collection of libraries formatted in VSCode snippets. Does not contai
 
 ### Strings
 - String hashing <a href="CPP/hashing.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+- Suffix Array <a href="CPP/suffix_array.cpp"><img  src="https://img.shields.io/badge/c%2B%2B-purple"  height="17"  /></a>
+
 
 ----------
 
