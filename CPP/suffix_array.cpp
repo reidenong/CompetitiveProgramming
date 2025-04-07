@@ -6,7 +6,9 @@
  */
 struct SuffixArray {
 	vi sa, lcp;
+	string smem;
 	SuffixArray(string s, int lim=256) { // or vector<int>
+		smem = s;
 		s.push_back(0); int n = sz(s), k = 0, a, b;
 		vi x(all(s)), y(n), ws(max(n, lim));
 		sa = lcp = y, iota(all(sa), 0);
@@ -25,6 +27,16 @@ struct SuffixArray {
 			for (k && k--, j = sa[x[i] - 1];
 					s[i + k] == s[j + k]; k++);
 	}
+	void view() {
+		cerr << " sa   lcp   suffix" << '\n';
+		int n = sz(smem);
+		for (int i = 0; i < n + 1; i++) {
+			cerr << std::setw(3) << sa[i];
+			cerr << std::setw(6) << lcp[i] << "   ";
+			cerr << smem.substr(sa[i], n - sa[i]) << "$" << '\n';
+		}
+	}
 };
-// SuffixArray sa(s);       // Construct suffix array
+// SuffixArray sa(s)		// Construct suffix array for string s
 // int x = sa.lcp[i];       // gives lcp(sa[i], sa[i-1]) for [1, n]
+// sa.view();				// View suffix array structure
