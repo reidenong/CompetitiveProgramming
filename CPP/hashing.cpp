@@ -58,4 +58,4 @@ vector<H> get_hashes(string& str, int length) {
 // HashInterval hi(s)                       // Hash object of string s
 // ull h = (ull)hi.get_hash(a, b)           // Get hash of substring s[a, b)
 
-// auto hs = get_hashes(s, l)               // Get all hashes of length l for s
+// auto hs = get_hashes(s, l)               // Get vector of hashes of length l for s

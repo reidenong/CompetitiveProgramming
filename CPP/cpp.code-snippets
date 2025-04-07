@@ -1093,9 +1093,9 @@
             "//      gettimeofday(&tp, 0);",
             "//      C = (int)tp.tv_usec; // (less than modulo)",
             "",
-            "// HashInterval hi(s)                       // Hash object of string s",
-            "// ull h = (ull)hi.get_hash(a, b)           // Get hash of substring s[a, b)",
-            "// auto hs = get_hashes(s, l)               // Get all hashes of length l for s"
+            "// HashInterval hi(s);                       // Hash object of string s",
+            "// ull h = (ull)hi.get_hash(a, b);           // Get hash of substring s[a, b)",
+            "// auto hs = get_hashes(s, l);               // Get vector of hashes of length l for s"
         ],
         "description": "String Hashing"
     },
