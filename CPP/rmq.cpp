@@ -47,4 +47,4 @@ class SparseTable {  // OOP style
     }
 };
 // SparseTable st(A);               // Init
-// int idx = st.rmq(l, r);          // Get index of minimum value
+// int idx = st.rmq(l, r);          // Get index of minimum value in [l, r)
